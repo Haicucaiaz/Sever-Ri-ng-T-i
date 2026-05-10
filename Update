@@ -77,5 +77,7 @@ https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8
 https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="Phim Hoạt Hình" tvg-logo="https://cdn.galaxycine.vn/media/2026/4/6/con-ca-cau-co-500_1775458864686.jpg", Cá Con Cau Có(The Pout-Pout Fish)
-#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://vip.opstream12.com/20260509/32686_9333fc4f/3000k/hls/mixed.m3u8
+
+#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://kenh14cdn.com/203336854389633024/2025/12/19/landscapeavatarcopy277a6995c-4071-4cdb-831b-2420eba1f13b-1766080593591999966436-1766109255315-1766109255711395009817.jpg", Avatar 2: Dòng Chảy Của Nước
+https://vip.opstream10.com/20230102/25994_51746328/3000k/hls/mixed.m3u8
