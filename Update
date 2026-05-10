@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",VTV1
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+https://sgclient.duckdns.org/source/tv360.m3u8?id=2
