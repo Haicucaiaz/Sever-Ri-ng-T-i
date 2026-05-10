@@ -1,4 +1,7 @@
 #EXTM3U
+
+#Truyền Hình# 
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
@@ -15,10 +18,14 @@ https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 
-#EXTINF:-1 group-title="Phim Việt" tvg-logo="https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg", Đèn Âm Hồn: Người Con Gái Nam Xương
+
+
+#Phim#
+
+#EXTINF:-1 tvg-id="Đèn Âm Hồn" group-title="Phim Việt" tvg-logo="https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg",Đèn Âm Hồn:Người Con Gái Nam Xương
 https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="Phim Hoạt Hình" tvg-logo="https://kenh14cdn.com/203336854389633024/2025/5/24/ngangcc690d7e-1620-4524-aafa-a7496c81f6f6-174807929920015425666-1748084313655-17480843144601375971451.jpg", Doraemon Movie 44: Nobita và cuộc phiêu lưu vào thế giới trong tranh (bản vietsub)
+#EXTINF:-1 tvg-id="Doraemon" group-title="Phim Hoạt Hình" tvg-logo="https://kenh14cdn.com/203336854389633024/2025/5/24/ngangcc690d7e-1620-4524-aafa-a7496c81f6f6-174807929920015425666-1748084313655-17480843144601375971451.jpg", Doraemon Movie 44: Nobita và cuộc phiêu lưu vào thế giới trong tranh (bản vietsub)
 https://dl.dropboxusercontent.com/scl/fi/yvvlntkqerm1xvlhbfadc/Xem-Phim-Doraemon-Movie-44-Nobita-V-Cu-c-Phi-u-L-u-V-o-Th-Gi-i-Trong-Tranh-Doraemon-the-Movie-Nobitas-Art-World-Tales-Vietsub-RoPhim.mp4?rlkey=z2dujfvestltu7lpcaz2x1fnw&e=1&st=1drx6hkz&dl=0
 
 #EXTINF:-1 group-title="Phim Hoạt Hình" tvg-logo="https://kenh14cdn.com/203336854389633024/2025/5/24/ngangcc690d7e-1620-4524-aafa-a7496c81f6f6-174807929920015425666-1748084313655-17480843144601375971451.jpg", Doraemon Movie 44: Nobita và cuộc phiêu lưu vào thế giới trong tranh (bản lồng tiếng)
