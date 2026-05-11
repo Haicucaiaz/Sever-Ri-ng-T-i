@@ -76,26 +76,19 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="antv" tvg-logo="https://vn.xemtv.net/image/antv.png" group-title="AN NINH QUỐC PHÒNG",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvn" tvg-logo="https://vn.xemtv.net/image/qpvn.png" group-title="AN NINH QUỐC PHÒNG",QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="QUẢNG CÁO FPT" group-title="VTV" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play-600x314.png",QC FPT
-#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-https://vips-livecdn.fptplay.net/MzkxMTE2NjZ8Zi1jaGFubmVsMV92aGxzLnNtaWx8ZnB0fDE3Nzg0NjMyNzN8MjEuMTA0LjIzMi4xNzB8ODU1NDBkNzlhODRhYTdjZGU3ZTk4NjAxNTU0YjA0ZGI/fnxhd2/f-channel1_vhls.smil/playlist.m3u8
 
 #QUỐC TẾ#
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cartoon-kids.png" group-title="Hoạt Hình TV",On Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/ON_BiBi.png/revision/latest/scale-to-width-down/1000?cb=20240912115252" group-title="Hoạt Hình TV",On BiBi
+https://ec03-pop5-hht.tv360.vn/bpk-token/d2rw2hhr45jryt2ip2xr7i3ndqpkg3i4/bpk-tv/263/output/index.m3u8?bkm-query&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ewogICJleHAiOjE3Nzg1MzgwOTAsCiAgImlzcyI6ImJrbSIsCiAgInZlciI6IjEuMCIsCiAgImlhdCI6MTc3ODUxNjM3MSwKICAic3IiOnsKICAgICAidmVyIjoiMi4wIiwKICAgICAic25hIjoiMjYzX0hMUyIsCiAgICAgInBuYSI6IlZpZXR0ZWwiLAogICAgICJybmEiOiIiLAogICAgICJwbiI6IlBPUC1IQ00tUE9QNSIsCiAgICAgImVuIjoiRURHRS1IQ00tUE9QNSIsCiAgICAgImNjIjoiVk4iLAogICAgICJyYyI6IlNHIiwKICAgICAiYWNuIjoiQ09SRS1IQ00tUE9QNSIsCiAgICAgImlzcCI6IkZQVCBUZWxlY29tIiwKICAgICAiYXNuIjoiMTg0MDMiLAogICAgICJ2cyI6IkJLUzQwMC1QT1A1LTAzXzE3Mi4yNC4xNy4xMzQ6MjAwMDAiLAogICAgICJudCI6Ik9UVCIsCiAgICAgInR0cCI6MCwKICAgICAicGxpZCI6IiIsCiAgICAgInB1aWQiOiIiLAogICAgICJ0ZWlkIjoiIgogIH0sCiAgIm90Ijp7CiAgICAgInRzIjoxNzc4NTE2MzcxLAogICAgICJ1cmwiOiIvYnBrLXR2LzI2My9vdXRwdXQvaW5kZXgubTN1OD9taW5yYXRlPTAmbWF4cmF0ZT0xMDAwMDAwMCIsCiAgICAgInRvayI6ImQycncyaGhyNDVqcnl0MmlwMnhyN2kzbmRxcGtnM2k0IiwKICAgICAiZXh0IjoiIiwKICAgICAiY2lwIjoiMTE4LjY4LjU2LjE5MSIsCiAgICAgImNoayI6IGZhbHNlLAogICAgICJzdHQiOiJOTyIsCiAgICAgImRzY3AiOjAsCiAgICAgInN2Ijp7CiAgICAgICAgImlkIjoiMjYzX0hMUyIsCiAgICAgICAgInR5cCI6IkxJVkUiCiAgICAgfSwKICAgICAidG8iOnsKICAgICAgICAKICAgICAgICAKICAgICAgICAic3UiOjAsCiAgICAgICAgInJjIjoxNTAKICAgICB9LAogICAgICJsYXkiOiB7CiAgICAgICJsc3QiOltdLAogICAgICAibWF4IjoxMDAwMDAwMCwKICAgICAgIm1pbiI6MAogICAgIH0sCiAgICAgInJzaCI6MCwKICAgICAicnNocCI6MTAwLAogICAgICJvYmYiOmZhbHNlLAogICAgICJ0YWdzIjp7fQogIH0KfQ.0tyjXrE8N_A0G8Z9PhfzIOiV9AQLk35bTZO80cBuxAA
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/foxcrime.png" group-title="Cinema",FOXCRIME
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
