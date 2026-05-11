@@ -39,26 +39,10 @@ https://vips-livecdn.fptplay.net/MzkxMTE2NjZ8Zi1jaGFubmVsMV92aGxzLnNtaWx8ZnB0fDE
 
 
 #QUỐC TẾ#
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/disneyjunior.png" group-title="Hoạt Hình TV",Disney Junior HD
-https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/disney-xd.png" group-title="Hoạt Hình TV",Disney XD
-https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cartoon-kids.png" group-title="Hoạt Hình TV",Cartoon Kids
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cartoon-kids.png" group-title="Hoạt Hình TV",On Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/disney.png" group-title="Hoạt Hình TV",Disney Channel
-https://fl1.moveonjoy.com/DISNEY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hbo.png" group-title="Cinema",HBO
-https://fl1.moveonjoy.com/HBO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hbohits.png" group-title="Cinema",HBO HITS
-https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cinemax.png" group-title="Cinema",Cinemax
-https://fl1.moveonjoy.com/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/foxcrime.png" group-title="Cinema",FOXCRIME
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
