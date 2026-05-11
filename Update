@@ -1,9 +1,6 @@
 #EXTM3U
 
 #Truyền Hình# 
-#EXTINF:-1 tvg-id="QUẢNG CÁO" group-title="VTV" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play-600x314.png",FPT
-#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-https://vips-livecdn.fptplay.net/MzkxMTE2NjZ8Zi1jaGFubmVsMV92aGxzLnNtaWx8ZnB0fDE3Nzg0NjMyNzN8MjEuMTA0LjIzMi4xNzB8ODU1NDBkNzlhODRhYTdjZGU3ZTk4NjAxNTU0YjA0ZGI/fnxhd2/f-channel1_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -20,6 +17,10 @@ https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}, VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
+
+#EXTINF:-1 tvg-id="QUẢNG CÁO" group-title="VTV" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play-600x314.png",FPT
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+https://vips-livecdn.fptplay.net/MzkxMTE2NjZ8Zi1jaGFubmVsMV92aGxzLnNtaWx8ZnB0fDE3Nzg0NjMyNzN8MjEuMTA0LjIzMi4xNzB8ODU1NDBkNzlhODRhYTdjZGU3ZTk4NjAxNTU0YjA0ZGI/fnxhd2/f-channel1_vhls.smil/playlist.m3u8
 
 
 
