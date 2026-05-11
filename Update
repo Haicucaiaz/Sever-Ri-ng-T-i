@@ -28,14 +28,46 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://vn.xemtv.net/image/vtv9.png" ,VTV9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 
-#EXTINF:-1  group-title="Quốc Tế" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Cartoon-Network-logo-500x281.png",Cartoon
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/cartoon/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://vn.xemtv.net/image/antv.png" group-title="AN NINH QUỐC PHÒNG",ANTV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="qpvn" tvg-logo="https://vn.xemtv.net/image/qpvn.png" group-title="AN NINH QUỐC PHÒNG",QPVN
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="QUẢNG CÁO FPT" group-title="VTV" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play-600x314.png",QC FPT
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://vips-livecdn.fptplay.net/MzkxMTE2NjZ8Zi1jaGFubmVsMV92aGxzLnNtaWx8ZnB0fDE3Nzg0NjMyNzN8MjEuMTA0LjIzMi4xNzB8ODU1NDBkNzlhODRhYTdjZGU3ZTk4NjAxNTU0YjA0ZGI/fnxhd2/f-channel1_vhls.smil/playlist.m3u8
 
 
+#QUỐC TẾ#
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/disneyjunior.png" group-title="Hoạt Hình TV",Disney Junior HD
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/disney-xd.png" group-title="Hoạt Hình TV",Disney XD
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cartoon-kids.png" group-title="Hoạt Hình TV",Cartoon Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/disney.png" group-title="Hoạt Hình TV",Disney Channel
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hbo.png" group-title="Cinema",HBO
+https://fl1.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hbohits.png" group-title="Cinema",HBO HITS
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cinemax.png" group-title="Cinema",Cinemax
+https://fl1.moveonjoy.com/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/foxcrime.png" group-title="Cinema",FOXCRIME
+https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nasatv.png" group-title="Vũ Trụ",NASA TV
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/billiardtv.png" group-title="Billiard",Billiard TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 
 #Phim#
 
