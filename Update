@@ -56,8 +56,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nasatv.png" group-title="Vũ Trụ",NASA TV
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1778507450/ei/WooBatGnBt2K1d8P-8GUyQg/ip/118.68.56.191/id/FuuC4dpSQ1M.1/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/rqh/1/hls_chunk_host/rr7---sn-42u-nbosz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwrEg96s_xzmWDGfBo4hVwauLGipNR_lr_wEQ7mYmD6qFxess_daNpPmtrfXx0ATKaOqWx2OTi_4/spc/96XrvzOPCo7Cqvg8cFNNNQKwJ6Q-U5-xtfJkKRMM48-rtO2DaA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3251250/met/1778485850,/mh/xB/mm/44/mn/sn-42u-nbosz/ms/lva/mv/m/mvi/7/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1778485483/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAKw0CVp3Ql7I8p8hBAPlARcFBSCVOahLfa0WDTydIOGMAiEAwENZ5WECB9xGQNW6d249qLuOOdfYmtV-y_1innAm-So%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgHV5OXCwz8N5C2R8z056sAnu0pUg_WoRbOC2JngR9hNoCIDqBOKfID51iPeDEvzRRfMKkrmXdxUkLFqKmKNOmFkRh/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/billiardtv.png" group-title="Billiard",Billiard TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 
