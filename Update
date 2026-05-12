@@ -82,4 +82,8 @@ https://v7.kkphimplayer7.com/20260510/DzOwbOPD/3500kb/hls/index.m3u8
 https://v7.kkphimplayer7.com/20260501/auuO93dt/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://phimapi.com/image.php?url=https%3A%2F%2Fphimimg.com%2Fupload%2Fvod%2F20260505-1%2Fd61a4b0301e8760c64092cf01798aee4.jpg" group-title="Phim Kinh Dị", Nhà Hai Chủ (2025)
 https://v7.kkphimplayer7.com/20260505/YnFXHB6A/index.m3u8
-
+#EXTINF:-1 group-title="Hội Quán Tv", Bóng Rổ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://sv2.hoiquan3.live/"}
+https://tfvt3go3nhcjtghzdrpbsfaauymm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=2a0b41251202a608065eacb9-177859040146230&wsIPSercert=3305edb47461e62a2ab52ca834ee5fe0&wsBindIP=2&wsserid=1168270624953309397
