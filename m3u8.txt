@@ -1,0 +1,3 @@
+
+#EXTINF:-1 tvg-logo="https://phimapi.com/image.php?url=https%3A%2F%2Fphimimg.com%2Fupload%2Fvod%2F20260225-1%2Fdbac0f3d8cdf9b2c5fdcde1fc9452659.jpg" group-title="Phim Lẻ", Đồi Câm Lặng: Ác Mộng Trong Sương (2026)
+https://v7.kkphimplayer7.com/20260501/auuO93dt/3500kb/hls/index.m3u8
