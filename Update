@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="QUẢNG CÁO" tvg-logo="https://cdn-images.vtv.vn/thumb_w/640/562122370168008704/2023/5/19/photo-1-1684468770024702863210.jpg", TUYÊN TRUYỀN
+https://toiyeuvietnam.dpdns.org/BanQuyen.mp4
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://vips-livecdn.fptplay.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
