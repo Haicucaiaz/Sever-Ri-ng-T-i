@@ -1,4 +1,4 @@
-# Danh sách kênh CHẾT - 2026-05-13 01:15:46.518425
+# Danh sách kênh CHẾT - 2026-05-13 01:16:32.596324
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sony-sports3.png" group-title="THỂ THAO QUỐC TẾ",SONY SPORTS 3
 https://tv5.hoichoi24.com/1012/tracks-v1a1/mono.m3u8
 
