@@ -2,32 +2,33 @@
 
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="XemTV", VTV1
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv7.png" group-title="XemTV",VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="XemTV",VTV5 Tây Nam Bộ
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5.png" group-title="XemTV",VTV5
-https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="XemTV",VTV Cần Thơ
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv4.png" group-title="XemTV",VTV4
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv3.png" group-title="XemTV",VTV3
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv8.png" group-title="XemTV",VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynguyen.png" group-title="XemTV",VTV5 Tây Nguyên
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv2.png" group-title="XemTV",VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv3.png" group-title="XemTV",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv4.png" group-title="XemTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5.png" group-title="XemTV",VTV5
+https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynguyen.png" group-title="XemTV",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="XemTV",VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv7.png" group-title="XemTV",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv8.png" group-title="XemTV",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv9.png" group-title="XemTV",VTV9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="XemTV",VTV Cần Thơ
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vietnamtoday.png" group-title="XemTV",Vietnam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antv" tvg-logo="https://vn.xemtv.net/image/antv.png" group-title="AN NINH QUỐC PHÒNG",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvn" tvg-logo="https://vn.xemtv.net/image/qpvn.png" group-title="AN NINH QUỐC PHÒNG",QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vietnamtoday.png" group-title="XemTV",Vietnam Today
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg", On Movies
