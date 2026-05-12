@@ -337,10 +337,10 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/gtv.png" group-title="XemTV",GTV
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/dongthap.png" group-title="AN NINH QUỐC PHÒNG",THĐT1
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/dongthap.png" group-title="XemTV",THĐT1
 https://live.fptplay53.net/epzsd1/dongthap_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bhttv.png" group-title="AN NINH QUỐC PHÒNG",BHTTV
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bhttv.png" group-title="XemTV",BHTTV
 https://wse.hatinhtv.net/live/httv1/chunklist_w1547680104.m3u8
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/kgtv1.png" group-title="XemTV",KGTV1
@@ -619,7 +619,7 @@ http://222.252.21.96:8000/HANOI96
 #EXTINF:-1 group-title="XemTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eADeW0yFwlpZZbFLiJ1ijGlmTJuKTMV_ow&s" radio=true,HANOI90 (KENH NAY BI NO BHXH)
 http://14.162.146.90:8000/HANOI90
 
-#EXTINF:-1 group-title="XemTV" radio=true,NGHE AN (FM99.6MHz)
+#EXTINF:-1 group-title="Radio" radio=true,NGHE AN (FM99.6MHz)
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 
 #EXTINF:-1 group-title="Radio" radio=true,DANANG RADIO (AM 702kHz, FM 97.6, 98.5MHz)
