@@ -1015,4 +1015,18 @@ https://super-cdn.link/espn6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/strongman.jpg" group-title="XemTV",Strong Man TV
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sony-sports3.png" group-title="XemTV",SONY SPORTS 3
+https://tv5.hoichoi24.com/1012/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/eurosport.png" group-title="XemTV",Euro Sport
+https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/eurosport2.png" group-title="XemTV",Euro Sport 2
+https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/eurosport2.png" group-title="XemTV",Euro Sport 2
+https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/eurosport.png" group-title="XemTV",Euro Sport
+https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_HD/tracks-v1a1/mono.m3u8
 
