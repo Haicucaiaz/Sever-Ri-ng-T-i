@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1 tvg-id="QUẢNG CÁO" tvg-logo="https://cdn-images.vtv.vn/thumb_w/640/562122370168008704/2023/5/19/photo-1-1684468770024702863210.jpg", TUYÊN TRUYỀN
+#EXTM3U
+#EXTINF:-1 tvg-id="QUẢNG CÁO" tvg-logo="https://cdn-images.vtv.vn/thumb_w/640/562122370168008704/2023/5/19/photo-1-1684468770024702863210.jpg", TUYÊN TRUYỀN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://toiyeuvietnam.dpdns.org/BanQuyen.mp4
 
