@@ -89,4 +89,5 @@ https://tfvt1geauymt1go41hpjofaau1qjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com
 #EXTINF:-1 group-title="Hội Quán TV", Cầu Lông
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
-https://tfvt3go3nhcjtghzdrpbsfaauymm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=d6eba99c1c37b2df0462c87d-177859055629872&wsIPSercert=3305edb47461e62a2ab52ca834ee5fe0&wsBindIP=2&wsserid=1168270624956455233
+#EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://sv2.hoiquan3.live/"}
+https://tfvt3go3nhcjtghzdrpbsfaauymm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=2a0b41251202a608065eacb9-177859040146230&wsIPSercert=3305edb47461e62a2ab52ca834ee5fe0&wsBindIP=2&wsserid=1168270624953309397
