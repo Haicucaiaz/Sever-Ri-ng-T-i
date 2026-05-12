@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="QUẢNG CÁO" tvg-logo="https://cdn-images.vtv.vn/thumb_w/640/562122370168008704/2023/5/19/photo-1-1684468770024702863210.jpg", TUYÊN TRUYỀN
-https://toiyeuvietnam.dpdns.org/BanQuyen.mp4
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://vips-livecdn.fptplay.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
@@ -86,5 +84,5 @@ https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&co
 #EXTINF:-1 group-title="Nước Ngoài", Nasa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1778612987/ei/myYDasOIMevCms0P3Ja5kQ8/ip/118.68.56.191/id/FuuC4dpSQ1M.1/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/rqh/1/hls_chunk_host/rr7---sn-42u-nbosz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwqUWkuA33cgSySdoDNuQ4m8fTckL_-JN9xA5t0ESlMwNTaMjjJLv6YMXjvjUeOENIDupexn1StZ/spc/96XrvwQuRX0d7FidhhJPcqD1pskGNftCzJ8V8YxZCdBcAFBcDg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2912500/met/1778591388,/mh/xB/mm/44/mn/sn-42u-nbosz/ms/lva/mv/m/mvi/7/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1778590833/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgOil8P2AXCugBYdi-AdiS9y5_oFTB3gc45_4oJV_F-0wCIQCWXA9i7N3rQJcq7CB1vBD8kCmx8x3pSIIEaHl9DMlMEg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgD1ys-j9YHk28cT9KA9pzTvqV4VMrapqjajjS7xAMzX8CIBpNsaN35uY93HhyR0TNrMxzj3IezPK4ciHmSggCi92n/playlist/index.m3u8
-#EXTINF:-1 group-title="Hội Quán TV", Bóng Đá China VS Quatar
-https://tfvt3geauymt1go41hpjofaau1qjppbasa4mscwz8w5d3ptwzc3jqcpzs4.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8?wsSession=3d27ec8fd502cc3437e8a488-177860143371457&wsIPSercert=7719aa3449f0634457a92195e36f73ed&wsBindIP=2&wsserid=1172662689747598560
+#EXTINF:-1 tvg-logo="https://phimapi.com/image.php?url=https%3A%2F%2Fphimimg.com%2Fupload%2Fvod%2F20250327-1%2F825f227bb0a3cd8a94f7e78d4be22684.jpg" group-title="Phim Lẻ", Lò Đào Tạo Quái Vật (2025)
+https://v7.kkphimplayer7.com/20260502/aP06vrSC/index.m3u8
