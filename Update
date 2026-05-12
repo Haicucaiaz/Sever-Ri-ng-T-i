@@ -76,3 +76,5 @@ https://vip.opstream12.com/20260509/32686_9333fc4f/3000k/hls/mixed.m3u8
 https://vip.opstream10.com/20230102/25994_51746328/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://cdn-images.vtv.vn/thumb_w/1200/66349b6076cb4dee98746cf1/2025/12/17/avatar-3-62959169067174794682712.jpg", Avatar 3: Lửa Và Tro Tàn
 https://s6.kkphimplayer6.com/20260331/eRpJwGPs/3500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimapi.com/image.php?url=https%3A%2F%2Fphimimg.com%2Fupload%2Fvod%2F20260508-1%2F6bf821d68045c5310a192c5244992ac0.jpg" group-title="Hoạt Hình", Super Mario Thiên Hà 2026
+https://v7.kkphimplayer7.com/20260510/DzOwbOPD/3500kb/hls/index.m3u8
