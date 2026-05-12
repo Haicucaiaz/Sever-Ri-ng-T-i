@@ -1,8 +1,2 @@
-# Danh sách kênh chết - 2026-05-12 22:56:32.348696
-
-#EXTINF:-1 group-title="Hội Quán TV", Tenis
-https://tfvt1grzdkpbqgrzdncbtfihzc5jagy4urptqci1gq3mpcfhgg3dqf3zzr3a.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=97494a37c0e3eb3923edfb0b-177859170923676&wsIPSercert=3305edb47461e62a2ab52ca834ee5fe0&wsBindIP=2&wsserid=1168269799862062444
-
-#EXTINF:-1 group-title="Hội Quán TV", Tenis
-https://tfvt1geauymt1go41hpjofaau1qjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=8e3f358bde2194f4f04a67e0-177859107491048&wsIPSercert=7719aa3449f0634457a92195e36f73ed&wsBindIP=2&wsserid=1172662689752841644
+# Danh sách kênh chết - 2026-05-12 23:11:49
 
