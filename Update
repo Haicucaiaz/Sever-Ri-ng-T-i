@@ -83,4 +83,7 @@ https://v7.kkphimplayer7.com/20260501/auuO93dt/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://phimapi.com/image.php?url=https%3A%2F%2Fphimimg.com%2Fupload%2Fvod%2F20260505-1%2Fd61a4b0301e8760c64092cf01798aee4.jpg" group-title="Phim Kinh Dị", Nhà Hai Chủ (2025)
 https://v7.kkphimplayer7.com/20260505/YnFXHB6A/index.m3u8
 #EXTINF:-1 group-title="Hội Quán TV", Giải Tenis
+#EXTINF:-1 group-title="Hội Quán TV",Giải Tenis
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tfvt1geauymt1go41hpjofaau1qjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=0d5d81c9b6ce916420b0768d-177858949643589&wsIPSercert=7719aa3449f0634457a92195e36f73ed&wsBindIP=2&wsserid=1172662689750744424
