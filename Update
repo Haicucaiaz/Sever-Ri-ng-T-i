@@ -1,4 +1,7 @@
-#EXTM3U#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="XemTV", (VTV1) This m3u file is come from giangnam0201. Please do not reup. - VTV1
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="XemTV", VTV1
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv7.png" group-title="XemTV",VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="XemTV",VTV5 Tây Nam Bộ
