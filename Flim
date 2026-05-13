@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="" group-title="", Rửa Mối Nhục Xưa
 https://s6.kkphimplayer6.com/20260206/VHRHWwDp/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Giáo Sư Khùng
@@ -13,7 +12,7 @@ https://s5.phim1280.tv/20250122/sa9bepkH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Greenleaf (Phần 1)
 https://s5.phim1280.tv/20241218/V9hD37dS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Cối Xay Thịt Người
-https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20240911/RHRs1j1d/index.m3u8\",\"link_m3u8\":\"https://s5.phim1280.tv/20240911/RHRs1j1d/index.m3u8
+https://s5.phim1280.tv/20240911/RHRs1j1d/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Ước Hẹn Cùng Trưởng Thành
 https://s4.phim1280.tv/20241128/7Zv7JGH6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", An Affair to Remember
@@ -29,19 +28,19 @@ https://s2.phim1280.tv/20240309/s9iWhvVm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Thanh Tra Vô Hình
 https://s3.phim1280.tv/20240520/27Spk48C/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Chân Tướng Thật Sự
-https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240719/2eJKexzT/index.m3u8\",\"link_m3u8\":\"https://s3.phim1280.tv/20240719/2eJKexzT/index.m3u8
+https://s3.phim1280.tv/20240719/2eJKexzT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Hung Thần Trắng
-https://vip.opstream12.com/share/1cdf14d1e3699d61d237cf76ce1c2dca\",\"link_m3u8\":\"https://vip.opstream12.com/20220317/4014_8141728e/index.m3u8
+https://vip.opstream12.com/20220317/4014_8141728e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Homecoming (Phần 2)
 https://vip.opstream11.com/20230916/47344_1f08c463/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Người Vợ Tội Lỗi
-https://vip.opstream-short.com/share/31f16d3ab7ac2c7e89fc56fe45eae7e1\",\"link_m3u8\":\"https://vip.opstream-short.com/20251117/32027_31f16d3a/index.m3u8
+https://vip.opstream-short.com/20251117/32027_31f16d3a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Đại chiến hoa tươi
-https://vip.opstream10.com/share/988969200cb769535c9ff0ce49e36719\",\"link_m3u8\":\"https://vip.opstream10.com/20220622/22050_a4222736/index.m3u8
+https://vip.opstream10.com/20220622/22050_a4222736/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Dạ Thành Phú Chi Ly Sinh
-https://vip.opstream10.com/share/1e051a5c9bd08c027eb09b522c26ba88\",\"link_m3u8\":\"https://vip.opstream10.com/20241110/28223_1e051a5c/index.m3u8
+https://vip.opstream10.com/20241110/28223_1e051a5c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Người Tình Xa Lạ
-https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241010/KVUeyE3h/index.m3u8\",\"link_m3u8\":\"https://s4.phim1280.tv/20241010/KVUeyE3h/index.m3u8
+https://s4.phim1280.tv/20241010/KVUeyE3h/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Làm cha mẹ (Phần 6)
 https://vip.opstream90.com/20260506/31171_0ee538bb/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Alpha
