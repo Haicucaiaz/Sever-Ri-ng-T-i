@@ -1,1 +1,1852 @@
-https://v7.kkphimplayer7.com/20260510/DzOwbOPD/3500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Rửa Mối Nhục Xưa
+https://s6.kkphimplayer6.com/20260206/VHRHWwDp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giáo Sư Khùng
+https://s5.phim1280.tv/20250302/HLvu5I8Z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Pinecone & Pony (Phần 2)
+https://vip.opstream15.com/20230312/35523_b5b86f06/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ali Ở Quận Queens
+https://s2.phim1280.tv/20231217/xbb1aDOv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Gái Kretek
+https://s5.phim1280.tv/20250122/sa9bepkH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Greenleaf (Phần 1)
+https://s5.phim1280.tv/20241218/V9hD37dS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cối Xay Thịt Người
+https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20240911/RHRs1j1d/index.m3u8\",\"link_m3u8\":\"https://s5.phim1280.tv/20240911/RHRs1j1d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ước Hẹn Cùng Trưởng Thành
+https://s4.phim1280.tv/20241128/7Zv7JGH6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", An Affair to Remember
+https://s1.phim1280.tv/20231126/buERkDyv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kim Ji Young, Born 1982
+https://s2.phim1280.tv/20240218/uDI7eXZd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Một Năm Không Có Công Việc
+https://s5.phim1280.tv/20250304/6xJJ1ifW/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xuyên Không Tôi Là Hoàn Châu... Tì Nữ
+https://s6.kkphimplayer6.com/20251121/d7V5b7kp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trận Chiến Ở Tiểu Đông Kinh
+https://s2.phim1280.tv/20240309/s9iWhvVm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thanh Tra Vô Hình
+https://s3.phim1280.tv/20240520/27Spk48C/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chân Tướng Thật Sự
+https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240719/2eJKexzT/index.m3u8\",\"link_m3u8\":\"https://s3.phim1280.tv/20240719/2eJKexzT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hung Thần Trắng
+https://vip.opstream12.com/share/1cdf14d1e3699d61d237cf76ce1c2dca\",\"link_m3u8\":\"https://vip.opstream12.com/20220317/4014_8141728e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Homecoming (Phần 2)
+https://vip.opstream11.com/20230916/47344_1f08c463/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Vợ Tội Lỗi
+https://vip.opstream-short.com/share/31f16d3ab7ac2c7e89fc56fe45eae7e1\",\"link_m3u8\":\"https://vip.opstream-short.com/20251117/32027_31f16d3a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đại chiến hoa tươi
+https://vip.opstream10.com/share/988969200cb769535c9ff0ce49e36719\",\"link_m3u8\":\"https://vip.opstream10.com/20220622/22050_a4222736/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dạ Thành Phú Chi Ly Sinh
+https://vip.opstream10.com/share/1e051a5c9bd08c027eb09b522c26ba88\",\"link_m3u8\":\"https://vip.opstream10.com/20241110/28223_1e051a5c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Tình Xa Lạ
+https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241010/KVUeyE3h/index.m3u8\",\"link_m3u8\":\"https://s4.phim1280.tv/20241010/KVUeyE3h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Làm cha mẹ (Phần 6)
+https://vip.opstream90.com/20260506/31171_0ee538bb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Alpha
+https://v7.kkphimplayer7.com/20260501/OiSOPDJN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chiến Binh Công Lý
+https://s2.phim1280.tv/20231226/aKcfO1oe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kỷ Nguyên Bóng Tối
+https://vip.opstream14.com/20230427/35939_1746e3ea/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Heartbreak High
+https://vip.opstream15.com/20221221/30114_3a9edb82/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Án Mạng ở Tòa Đại Sứ
+https://s6.kkphimplayer6.com/20251128/ohnrjJAk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thị trấn cổ tích (Phần 2)
+https://vip.opstream10.com/20220404/5060_cf9e9b3d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chàng Hàng Xóm Độc Thân
+https://vip.opstream15.com/20221221/30184_1c19fd63/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sếp Của Tôi Là Chú Lợn Nhỏ
+https://s2.phim1280.tv/20240205/8fCYH657/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", A Kind of Murder
+https://vip.opstream14.com/20230708/38453_1cde4d58/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Quá Khứ Đồng Sơn
+https://vip.opstream14.com/20220517/12090_499ad5b7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lưu Hải Đấu Kim Thiềm
+https://s3.phim1280.tv/20240530/xg38tTeu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Siêu Nhân Thời Gian
+https://s5.phim1280.tv/20250316/7lDzR5B0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bác Sĩ Socola
+https://s5.phim1280.tv/20241011/Ma00UgZB/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chúa Tể Của Những Chiếc Nhẫn: Sự Trở Lại Của Nhà Vua
+https://s4.phim1280.tv/20250219/j2qdu6qi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đôi Tai Ngoại Cảm
+https://vip.opstream15.com/20230330/37090_f1c794bb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vitalina Varela
+https://s2.phim1280.tv/20240101/NHd1Ra5t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Liệt Hỏa Kiêu Sầu
+https://vip.opstream15.com/20230305/35323_cce9ccc9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cái Bóng Trong Một Nhà Máy Cũ
+https://s1.phim1280.tv/20231009/dLpswzgG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bác Sĩ Nhi Khoa Tài Ba
+https://s1.phim1280.tv/20231214/VjhBId9f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tỷ Phú Trai Hư: Ấn Độ
+https://s5.phim1280.tv/20241129/jqBUOIyc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dalah: Vụ Án Mạng Và Những Bông Hoa
+https://s5.phim1280.tv/20250301/u74h1HIx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giúp Bé Học Từ Vựng (Phần 1)
+https://s5.phim1280.tv/20241018/LqCC8sw8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phân kỳ
+https://s2.phim1280.tv/20240103/5ZflCbBQ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bí Ẩn Bóng Tối
+https://s2.phim1280.tv/20231210/VGomU729/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thời Kỳ Xanh
+https://s5.phim1280.tv/20250302/sBM99dEH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Macross delta
+https://vip.opstream11.com/20220630/33762_998f2bb8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đột Kích
+https://vip.opstream10.com/20220429/10971_1150caec/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Kid
+https://vip.opstream14.com/20220320/1935_bc2ba527/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Biệt Đội Mỹ Nhân Báo Thù
+https://s4.phim1280.tv/20250214/7h6XjWN4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cắt Và Chạy
+https://s6.kkphimplayer6.com/20251102/tl19STsR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Star Trek: Voyager (Phần 3)
+https://vip.opstream10.com/20220709/24143_0933aa61/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoang Đảo Cầu Sinh 2: Sát Cơ Sau Lưng
+https://s6.kkphimplayer6.com/20260320/DAWeWKLm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bạn Trai Phản Diện Của Tôi (Mr. BAD)
+https://vip.opstream16.com/20221226/28202_710d4992/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ăn Uống và Kết Hôn
+https://vip.opstream15.com/20220401/2471_3c7b5349/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Máy Bay Ném Bom
+https://s4.phim1280.tv/20241114/If7DV9xk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đoàn Tụ Kiểu Mỹ 2
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231025/qiacy2Sb/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20231025/qiacy2Sb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", sieu-co-bac
+https://s2.phim1280.tv/20240217/3SgsR60P/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Câu Chuyện Khởi Nghiệp
+https://vip.opstream17.com/20251125/23789_70c278e6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chàng kĩ sư và Cô người máy
+https://vip.opstream12.com/20220412/9904_03752cce/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Gọi Khẩn Cấp 9-1-1: Ngôi sao đơn độc (Phần 4)
+https://s3.phim1280.tv/20240422/BKn59CAy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tượng sáp II: Lạc lối trong thời gian
+https://vip.opstream13.com/20251011/11847_fea93b2c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thành Công Vĩ Đại
+https://vip.opstream14.com/20230220/32440_8b7e8b68/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Mitchell Đối Đầu Với Máy Móc
+https://vip.opstream12.com/20220217/223_9d7c6245/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ám Sát Tiểu Thuyết Gia
+https://s1.phim1280.tv/20231008/ftEhBvMW/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Săn Đuổi Đến Cùng
+https://s2.phim1280.tv/20231122/oQqhs3op/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Búp Bê Của Gabby (Phần 9)
+https://s5.phim1280.tv/20241021/KiqmPuO8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Biệt Đội Thiếu Niên Titan Xuất Kích: Đêm Tối Bắt Đầu Bừng Sáng
+https://vip.opstream16.com/20250510/41726_bd3cd01c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Quốc Gia Thảm Sát
+https://s1.phim1280.tv/20231208/I6LBWZsL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chạng Vạng: Nhật Thực
+https://s6.kkphimplayer6.com/20250812/RybI5hKM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", One piece: Clockwork Island Adventure
+https://vip.opstream14.com/20220317/1392_108760e7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phượng Lệ Cửu Thiên - Diễm Xích
+https://vip.opstream11.com/20220226/466_eb98d21e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyện Đời Bác Sĩ Nội Trú
+https://s4.phim1280.tv/20250412/ECV3Lny9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Chiến Hôn Nhân
+https://s5.phim1280.tv/20250101/kIBbJJwd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuồng Thú
+https://s2.phim1280.tv/20240104/D8ehmmdX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vũ Khúc Vinh Quang
+https://s2.phim1280.tv/20231202/0fUCVNsG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi Là Niềm Hy Vọng Của Trung Quốc DOTA
+https://s2.phim1280.tv/20240214/lTCWTJMQ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lời Hồi Đáp 1988-LEE HYE RI
+https://vip.opstream10.com/20220403/4633_9a65fec3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Biệt Đội Thiếu Niên Titan Xuất Kích (Phần 8)
+https://vip.opstream16.com/20250510/41728_79030319/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chú Nguyền
+https://s5.phim1280.tv/20250511/7tQtJg0s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyện Sinh Tồn Của Cô Nàng Ngoại Cỡ (Phần 1)
+https://s1.phim1280.tv/20240314/hyAAXafQ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đặc Vụ S.H.I.E.L.D. (Phần 7)
+https://vip.opstream15.com/20220503/10818_5e9224a4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mục Ruỗng (Phần 2)
+https://s5.phim1280.tv/20250308/oFdvEm98/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Monsoon Wedding
+https://vip.opstream11.com/20240920/53206_3811a9de/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khiêu Vũ Cùng Brando
+https://s6.kkphimplayer6.com/20251111/cMoGgBro/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Liễu Diệp Trích Tinh Thần
+https://s6.kkphimplayer6.com/20250712/tVJLH97D/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xì Dách
+https://vip.opstream14.com/20220318/1637_5a08eb4f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bigflo & Oli: Hiện tượng Hip Hop
+https://vip.opstream12.com/20220311/2998_b9791f50/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", To End All War: Oppenheimer & the Atomic Bomb
+https://s2.phim1280.tv/20230921/w24TxN9N/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Will You Be There?
+https://vip.opstream15.com/20220321/1720_0ebce284/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Công dân Kane
+https://s2.phim1280.tv/20231223/zzfSrxYt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Miêu Yêu Kỳ Đàm
+https://s3.phim1280.tv/20240411/JsRNA40Z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ba Mươi Chưa Phải Là Hết (Bản Thái)
+https://s6.kkphimplayer6.com/20250829/7LR6VXvq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trở Về Giữa Yêu Thương (Phần 2)
+https://vip.opstream13.com/20251130/20617_da584e09/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mã Vĩnh Trinh
+https://vip.opstream11.com/share/8d4112ce0aabe7aeef422c136a222624\",\"link_m3u8\":\"https://vip.opstream11.com/20220402/8686_d69f1ce5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cơn Khát (Người Tình Ma Cà Rồng)
+https://s6.kkphimplayer6.com/20251012/rLgi5QOJ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Argon
+https://vip.opstream16.com/20220412/7514_625739bd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đêm Trước Ở Soho
+https://s4.phim1280.tv/20241101/1NlXx9s0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Central Park (Phần 1)
+https://vip.opstream15.com/20230330/37239_d70b97d2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Cô Gái Đã Chết
+https://s6.kkphimplayer6.com/20250912/4IuP9gCe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Isang Himala: Phép Lạ
+https://vip.opstream90.com/20251106/17024_65c0277e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Liên Minh Quân Sư (phần 1)
+https://vip.opstream12.com/20220426/12891_76738bc3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sở Hán Kiêu Hùng
+https://vip.opstream12.com/20251115/30123_c2411c08/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thành Chủ Của Ta
+https://s3.phim1280.tv/20240321/43zGx6ai/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tổ Chức Khủng Bố
+https://s5.phim1280.tv/20241229/1Z5k4BXn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Huấn Luyện Chồng
+https://vip.opstream14.com/20221108/27714_abf932b6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tàn sát: Bữa tiệc tội lỗi
+https://vip.opstream16.com/20220427/10069_c7ce86ca/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc hẹn thứ ba dài nhất
+https://s2.phim1280.tv/20231122/tiL9QQzQ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Thừa Kế (Trở Lại Trường Học)
+https://s6.kkphimplayer6.com/20260116/3JCFUK8k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đêm Phiêu Lưu Tới Vụ Đô
+https://s5.phim1280.tv/20250117/j09vrMSG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đội Cứu Hoả Chicago (Phần 7)
+https://s6.kkphimplayer6.com/20250603/gWdrDFzt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dũng Sĩ Héc Quyn
+https://s1.phim1280.tv/20231017/APPTB8wr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hàng Ma Truyện
+https://vip.opstream12.com/share/b22511377f9a12f2c227ef2628933a3d\",\"link_m3u8\":\"https://vip.opstream12.com/20220518/16169_83e479e0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ca Đêm
+https://s4.phim1280.tv/20240911/gFa2WpY9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 12 Người Đàn Ông Giận Dữ
+https://s1.phim1280.tv/20231017/mm6o05e5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", TRỪ TÀ KÝ: KHỞI NGUYÊN HẮC ÁM
+https://vip.opstream90.com/20250507/5258_36fa3ecc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Địa Ngục
+https://s6.kkphimplayer6.com/20260414/KqLyTYh7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kính Hoa Duyên: Quyết Chiến Nữ Nhi Quốc
+https://s1.phim1280.tv/20231111/FjlxZJki/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bốn nhân cách
+https://vip.opstream16.com/20220410/7053_a430a986/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Plank Face
+https://vip.opstream12.com/20250909/28028_604ee636/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đế Chế Amsterdam
+https://s6.kkphimplayer6.com/20251030/adw0rWeH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cạm Bẫy Tình Yêu
+https://s6.kkphimplayer6.com/20250714/1b5UmkoW/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Bếp (Phần 4)
+https://vip.opstream90.com/20241120/3354_d2cd33e9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sứ Giả Tình Yêu
+https://s1.phim1280.tv/20231115/agfqDUvX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Buổi sáng sau
+https://vip.opstream13.com/20251118/17897_1e868c65/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Quán Trọ Bách Quỷ (Kakuriyo no Yadomeshi) (Phần 1)
+https://s6.kkphimplayer6.com/20251002/y4Kfng1L/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kế Hoạch Baby
+https://s6.kkphimplayer6.com/20250523/oQvzrHb4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vợ Nhân Tạo
+https://s2.phim1280.tv/20230927/6egA2ePa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đứa Con Của Quỷ
+https://s1.phim1280.tv/20240111/CpbXHE2d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhóm Vocal Nam Đỉnh Nhất
+https://vip.opstream90.com/20251020/15556_64600a36/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nữ Luật Sư Lidia Poët
+https://s1.phim1280.tv/20231231/LdsIf7yr/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đại Nội Mật Thám 008
+https://s2.phim1280.tv/20240217/38vBMiCv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thuê Bạn Trai CEO Về Nhà Ăn Tết
+https://vip.opstream-short.com/20251109/17248_4b7bb037/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khi Tình Yêu Đến
+https://vip.opstream-short.com/20251101/4123_92fde850/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Reborn
+https://vip.opstream90.com/20260424/30085_b4bee9fe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kẻ Săn Người Điên Loạn
+https://s2.phim1280.tv/20240309/YowH7KOM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Mẹ Trẻ
+https://s3.phim1280.tv/20240819/IFDemoxK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Váy Đỏ Đẫm Máu
+https://s2.phim1280.tv/20240219/Xoxjd3a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Một người như tôi
+https://v7.kkphimplayer7.com/20260504/NckFjiTa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Robinson Trên Đảo Hoang
+https://s2.phim1280.tv/20231122/RgiLU0eb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Operation Taco Gary's
+https://vip.opstream12.com/20260401/32628_7c294b26/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", vampire-academy
+https://vip.opstream14.com/20230401/34438_1c50c3f3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cậu Bé Sau Cánh Cửa
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231206/m823VcmL/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20231206/m823VcmL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phố Fear phần 2: 1978
+https://s2.phim1280.tv/20231121/MkmVsghM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ô Long Viện
+https://s1.phim1280.tv/20230928/bvZ28F4M/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Con Đường Hạnh Phúc
+https://vip.opstream10.com/share/e551d3ddbf87bddac369765bd58213a5\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8776_0effdd63/index.m3u8\"},{\"name\":\"2\",\"slug\":\"2\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-2\",\"link_embed\":\"https://vip.opstream10.com/share/9399e0b02c73fcc14cd11d9b4e685f2e\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8777_814c3e68/index.m3u8\"},{\"name\":\"3\",\"slug\":\"3\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-3\",\"link_embed\":\"https://vip.opstream10.com/share/3368986bdca0efedda1eda8d39b3ae6c\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8779_57414cb0/index.m3u8\"},{\"name\":\"4\",\"slug\":\"4\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-4\",\"link_embed\":\"https://vip.opstream10.com/share/b3ddb7c5b10be95dbc3f9152c58becce\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8781_9ed097d9/index.m3u8\"},{\"name\":\"5\",\"slug\":\"5\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-5\",\"link_embed\":\"https://vip.opstream10.com/share/7d38b1e9bd793d3f45e0e212a729a93c\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8783_d3835352/index.m3u8\"},{\"name\":\"6\",\"slug\":\"6\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-6\",\"link_embed\":\"https://vip.opstream10.com/share/dbd90a665ea6f292f36ebdb3d442826d\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8785_713f312a/index.m3u8\"},{\"name\":\"7\",\"slug\":\"7\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-7\",\"link_embed\":\"https://vip.opstream10.com/share/9f319422ca17b1082ea49820353f14ab\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8787_ef98cbac/index.m3u8\"},{\"name\":\"8\",\"slug\":\"8\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-8\",\"link_embed\":\"https://vip.opstream10.com/share/9cd013fe250ebffc853b386569ab18c0\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8789_02569628/index.m3u8\"},{\"name\":\"9\",\"slug\":\"9\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-9\",\"link_embed\":\"https://vip.opstream10.com/share/c9bc734c0663a142b7bec265098f8dbf\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8791_1d994676/index.m3u8\"},{\"name\":\"10\",\"slug\":\"10\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-10\",\"link_embed\":\"https://vip.opstream10.com/share/4fc7e9c4df30aafd8b7e1ab324f27712\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8793_66169594/index.m3u8\"},{\"name\":\"11\",\"slug\":\"11\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-11\",\"link_embed\":\"https://vip.opstream10.com/share/6acb084470c0a8bdf431d5427d1f29bc\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8795_dc49c393/index.m3u8\"},{\"name\":\"12\",\"slug\":\"12\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-12\",\"link_embed\":\"https://vip.opstream10.com/share/e2e5096d574976e8f115a8f1e0ffb52b\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8796_8a02b872/index.m3u8\"},{\"name\":\"13\",\"slug\":\"13\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-13\",\"link_embed\":\"https://vip.opstream10.com/share/e6051b3bfe716cc4a38c2f39ec199873\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8799_087414e3/index.m3u8\"},{\"name\":\"14\",\"slug\":\"14\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-14\",\"link_embed\":\"https://vip.opstream10.com/share/7ac52e3f2729d1b3f6d2b7e8f6467226\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8800_70de490b/index.m3u8\"},{\"name\":\"15\",\"slug\":\"15\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-15\",\"link_embed\":\"https://vip.opstream10.com/share/749b3dec12dee44c9594af615a9de86b\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8803_5f9a6a9f/index.m3u8\"},{\"name\":\"16\",\"slug\":\"16\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-16\",\"link_embed\":\"https://vip.opstream10.com/share/a36adbc35e69b22acbf9f834a0deb286\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8804_e85cdbcf/index.m3u8\"},{\"name\":\"17\",\"slug\":\"17\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-17\",\"link_embed\":\"https://vip.opstream10.com/share/c8d3a760ebab631565f8509d84b3b3f1\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8807_8630aa5b/index.m3u8\"},{\"name\":\"18\",\"slug\":\"18\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-18\",\"link_embed\":\"https://vip.opstream10.com/share/df1a336b7e0b0cb186de6e66800c43a9\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8808_4fa8d372/index.m3u8\"},{\"name\":\"19\",\"slug\":\"19\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-19\",\"link_embed\":\"https://vip.opstream10.com/share/3f9e3767ef3b10a0de4c256d7ef9805d\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8811_f6678593/index.m3u8\"},{\"name\":\"20\",\"slug\":\"20\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-20\",\"link_embed\":\"https://vip.opstream10.com/share/f90bebdc692f68ebf8f1dee68a01a8e0\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8813_e9a3b2eb/index.m3u8\"},{\"name\":\"21\",\"slug\":\"21\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-21\",\"link_embed\":\"https://vip.opstream10.com/share/71f538c5db462f9bf1c7a8521c622c41\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8815_bfa6c5ed/index.m3u8\"},{\"name\":\"22\",\"slug\":\"22\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-22\",\"link_embed\":\"https://vip.opstream10.com/share/e105b88b3e1ac23ec811a708cd7edebf\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8817_08b20177/index.m3u8\"},{\"name\":\"23\",\"slug\":\"23\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-23\",\"link_embed\":\"https://vip.opstream10.com/share/4c07fe24771249c343e70c32289c1192\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8819_c6e92a7c/index.m3u8\"},{\"name\":\"24\",\"slug\":\"24\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-24\",\"link_embed\":\"https://vip.opstream10.com/share/1074cf6dee6fd3a453ea3fa9d190a430\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8822_4d946fa0/index.m3u8\"},{\"name\":\"25\",\"slug\":\"25\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-25\",\"link_embed\":\"https://vip.opstream10.com/share/801a089759389ea9fa5f77ecc339f4be\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8824_5dd5887b/index.m3u8\"},{\"name\":\"26\",\"slug\":\"26\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-26\",\"link_embed\":\"https://vip.opstream10.com/share/54f3bc04830d762a3b56a789b6ff62df\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8826_bc0a66f0/index.m3u8\"},{\"name\":\"27\",\"slug\":\"27\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-27\",\"link_embed\":\"https://vip.opstream10.com/share/384cb854644425079baeec43aa82534f\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8829_c258a8f4/index.m3u8\"},{\"name\":\"28\",\"slug\":\"28\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-28\",\"link_embed\":\"https://vip.opstream10.com/share/bf4334a2421c544eaa17629e52029ca1\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8831_0a367ecb/index.m3u8\"},{\"name\":\"29\",\"slug\":\"29\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-29\",\"link_embed\":\"https://vip.opstream10.com/share/349f8e8088df63050757dd8be4356216\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8833_588c3348/index.m3u8\"},{\"name\":\"30\",\"slug\":\"30\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-30\",\"link_embed\":\"https://vip.opstream10.com/share/e6abb6620be44e2035008f84888a43b1\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8835_80ad5b4d/index.m3u8\"},{\"name\":\"31\",\"slug\":\"31\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-31\",\"link_embed\":\"https://vip.opstream10.com/share/d0f5edad9ac19abed9e235c0fe0aa59f\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8838_68b9e658/index.m3u8\"},{\"name\":\"32\",\"slug\":\"32\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-32\",\"link_embed\":\"https://vip.opstream10.com/share/1d7b813d77ada92b4c5998ec42a3cde9\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8840_5a35141e/index.m3u8\"},{\"name\":\"33\",\"slug\":\"33\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-33\",\"link_embed\":\"https://vip.opstream10.com/share/3de6a598010e6866124ddfa12d3d35cb\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8843_4be4a6c1/index.m3u8\"},{\"name\":\"34\",\"slug\":\"34\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-34\",\"link_embed\":\"https://vip.opstream10.com/share/ff82db7535530637af7f8a96284b3459\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8845_d9ba35d5/index.m3u8\"},{\"name\":\"35\",\"slug\":\"35\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-35\",\"link_embed\":\"https://vip.opstream10.com/share/24368c745de15b3d2d6279667debcba3\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8848_9cdfe447/index.m3u8\"},{\"name\":\"36\",\"slug\":\"36\",\"filename\":\"con-duong-hanh-phuc-thuyet-minh-far-away-love-tap-36\",\"link_embed\":\"https://vip.opstream10.com/share/26cd8ecadce0d4efd6cc8a8725cbd1f8\",\"link_m3u8\":\"https://vip.opstream10.com/20220418/8850_59a0ad58/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đạo Diễn Xuống Tay Với Tôi
+https://vip.opstream14.com/20220408/6534_3b9410d9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngôi Nhà Ma
+https://s2.phim1280.tv/20240310/OOhc4g0I/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi Chờ Đợi Giây Phút Em Yêu Tôi
+https://vip.opstream14.com/20220914/21425_c3c25c73/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lưỡi cưa 8
+https://vip.opstream15.com/20221001/26818_3819b173/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Say tuổi thành xuân :băng đảng :người đàn ông
+https://vip.opstream15.com/20220306/993_2086da1b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Siêu Tốc Độ
+https://s1.phim1280.tv/20231111/gPRwVaoC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thuật Xem Tướng
+https://s2.phim1280.tv/20240305/AvKAcNdV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Disciples of the 36th Chamber
+https://vip.opstream14.com/20230115/29460_25a17852/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 11 Mối Tình Trước Em
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250727/gN6Cd9C3/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20250727/gN6Cd9C3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Điều Con Gái Muốn
+https://s2.phim1280.tv/20240112/EtSoXHGj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Terminator 3: Rise of the Machines
+https://vip.opstream14.com/20230422/35704_1020193f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cá Hổ Ăn Thịt Người
+https://vip.opstream14.com/20221211/28283_910c6f28/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", World Triggerr (Phần 3)
+https://vip.opstream90.com/20251017/15310_83737bd2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Công viên cổng tây Ikebukuro
+https://vip.opstream11.com/20220728/35212_f913c0c1/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ứng Cứu Cao Điểm
+https://s2.phim1280.tv/20231222/P7OgPaUL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bí Kíp Kĩ Năng Giường Chiếu Cực Đỉnh
+https://vip.opstream10.com/20230512/27196_0a8a60de/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chơi Hay Chết?
+https://s2.phim1280.tv/20231025/eS75Bhjp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mối Quan Hệ Phức Tạp
+https://s2.phim1280.tv/20240103/uSEjYL8V/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đêm Trước
+https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240326/zdpKyEJC/index.m3u8\",\"link_m3u8\":\"https://s3.phim1280.tv/20240326/zdpKyEJC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhật Thực
+https://vip.opstream14.com/20220422/9330_426b3b68/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bộ đôi hạnh phúc
+https://vip.opstream11.com/20220323/3898_7e2425ce/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 36 Câu Chuyện
+https://s6.kkphimplayer6.com/20251014/kli1jHra/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Biệt đội Badanamu: Cùng học ABC
+https://vip.opstream15.com/share/3f98e3391365916c44c062a3f90d3a70\",\"link_m3u8\":\"https://vip.opstream15.com/20220617/21446_17f86b47/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sesame Street (Phần 56)
+https://vip.opstream90.com/20251110/17344_d1aa227d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vinh Quang Trong Thù Hận
+https://s3.phim1280.tv/20240503/ltbomGLh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bão Thời Gian
+https://s2.phim1280.tv/20231118/T3oc4fxD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sát Nhân Mắt Trái Tim
+https://s5.phim1280.tv/20250306/AOduT2fc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vượt Đại Dương Để Yêu Em
+https://vip.opstream16.com/20231229/40014_7bd6d7e2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 13 Ngày Khủng Hoảng
+https://s2.phim1280.tv/20231117/AoDqlZs8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi, Earl Và Cô Bạn Hấp Hối
+https://s2.phim1280.tv/20240112/MxNsktZM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kim Mao Khuyển Đoàn Cảnh Trụ
+https://s5.phim1280.tv/20241015/68XSX3vD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Healer
+https://vip.opstream14.com/20220320/1932_6e330fac/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phát Điên Vì Tình
+https://vip.opstream10.com/20220513/13930_f602f578/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Wuthering Heights 2009
+https://vip.opstream16.com/share/cd0973da79d301fb821f4aae71f36173\",\"link_m3u8\":\"https://vip.opstream16.com/20231119/37750_90982ef6/index.m3u8\"},{\"name\":\"02\",\"slug\":\"\",\"filename\":\"Wuthering.Heights.2009.S01E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-playWEB\",\"link_embed\":\"https://vip.opstream16.com/share/364154911ada592eb2cdbb776033ebce\",\"link_m3u8\":\"https://vip.opstream16.com/20231119/37717_2298dc2a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cao Bồi Không Gian
+https://s3.phim1280.tv/20240611/aWH4y6Vc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Luôn Có Anh Bên Đời
+https://s2.phim1280.tv/20231217/DbJl2vMk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hãy Tin Cháu: Vụ Bắt Cóc Lisa McVey
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240115/5D6D8ML1/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20240115/5D6D8ML1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhật ký tội phạm: Đêm vắng
+https://s2.phim1280.tv/20231228/IYVpCIzM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đêm Đếm Sao
+https://s3.phim1280.tv/20240418/Lz9VMzg2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đội Chủ Nhà Chappelle - Earthquake: Legendary
+https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20240907/aWvFMDVf/index.m3u8\",\"link_m3u8\":\"https://s5.phim1280.tv/20240907/aWvFMDVf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoàng Phi Hồng: Nộ Hải Hùng Phong
+https://vip.opstream11.com/20220226/427_18860443/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Siêu Năng Lực
+https://s2.phim1280.tv/20240119/77YIl9Ml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Vây Hãm Waco
+https://s1.phim1280.tv/20240306/tZ57YkPF/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lego: The Adventures of Clutch Powers
+https://s1.phim1280.tv/20231128/FBlqUjUy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dự Án Đẫm Máu
+https://s5.phim1280.tv/20240911/zUIQ9AWn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cha máu
+https://vip.opstream10.com/20220311/334_ba110256/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Bravest
+https://vip.opstream15.com/20220314/1286_62ce77be/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Silent Night, Deadly Night
+https://s2.phim1280.tv/20240216/RaaOHFWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hương Vị Thương Yêu
+https://s2.phim1280.tv/20240301/JPkEndCR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Quản Lý Nhạc
+https://vip.opstream12.com/share/f36ec1cba2c51b03dcacdaa6c09d4aed\",\"link_m3u8\":\"https://vip.opstream12.com/20220614/19684_a9524e5a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yêu Điên Dại
+https://s1.phim1280.tv/20231126/iCRaWybV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bao La Vùng Trời
+https://vip.opstream14.com/20230206/30367_ffd1634d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vĩnh Dạ Trường Minh
+https://s3.phim1280.tv/20240820/mAJsnynQ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tên tôi là Chen Duidui
+https://vip.opstream10.com/20220311/410_15504647/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Con rắn
+https://s1.phim1280.tv/20231219/etgrxzUM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tín Hiệu Con Tim S3
+https://vip.opstream16.com/20231010/35463_67890b0d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Có Tận Hai Cha!
+https://s1.phim1280.tv/20231209/gmCXXjPy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đội Thực Tập
+https://s6.kkphimplayer6.com/20260212/3yapFW7x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Có Một Tá Con
+https://s2.phim1280.tv/20240121/d1d5gnWh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tình Cờ Yêu 2
+https://s6.kkphimplayer6.com/20250921/zoYG8YEm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Poison
+https://s2.phim1280.tv/20240304/u0vRU9ke/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lời Hứa Bất Tử
+https://s1.phim1280.tv/20240110/S0jX2Dcb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lời Chưa Nói
+https://s6.kkphimplayer6.com/20251007/Tgrmw6X2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cổn Cổn Hồng Trần
+https://vip.opstream16.com/share/b32cf5537b682f533bad63896c1b7f7f\",\"link_m3u8\":\"https://vip.opstream16.com/20231210/38909_8c3e2d54/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bầu Trời Sắt
+https://s2.phim1280.tv/20240116/s4iHFyM0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giam Ngục Phong Vân (Phần 2)
+https://s1.phim1280.tv/20231003/LmVfqY0z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Con Báo
+https://s5.phim1280.tv/20250307/80A1uP8z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngọn Đồi Hoa Hồng Anh
+https://s6.kkphimplayer6.com/20250716/mKawjdGY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Centauro
+https://s2.phim1280.tv/20240115/G6jFJisK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gián Điệp
+https://s2.phim1280.tv/20240120/MRkcGa2G/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cục Trinh Thám Thiếu Niên Dân Quốc
+https://vip.opstream10.com/20220429/10989_89e98199/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tần Thiên Bảo Giám
+https://vip.opstream16.com/share/c645af1622ea09472ecda1b012d444e8\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37038_7d00615f/index.m3u8\"},{\"name\":\"45\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E45\",\"link_embed\":\"https://vip.opstream16.com/share/5cc9ab68594aa0ea6bf2f0ecc3977c44\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37037_3c94af9e/index.m3u8\"},{\"name\":\"44\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E44\",\"link_embed\":\"https://vip.opstream16.com/share/97340a12cbc7ba7e072907aa669843f4\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37036_7a26a5d9/index.m3u8\"},{\"name\":\"43\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E43\",\"link_embed\":\"https://vip.opstream16.com/share/4fd76758ca20a054063d174c3cd7f394\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37035_1c191058/index.m3u8\"},{\"name\":\"42\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E42\",\"link_embed\":\"https://vip.opstream16.com/share/bb9b269783b8301cdec05297262a0db2\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37034_d2c8ec49/index.m3u8\"},{\"name\":\"41\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E41\",\"link_embed\":\"https://vip.opstream16.com/share/95bf5763251f491480a0c1e5b76a16d8\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37033_43388408/index.m3u8\"},{\"name\":\"40\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E40\",\"link_embed\":\"https://vip.opstream16.com/share/6109e720dfdee7143b87b597368ef17f\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37032_3b025b6f/index.m3u8\"},{\"name\":\"39\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E39\",\"link_embed\":\"https://vip.opstream16.com/share/f863c1c3ef0a21f87d108f0c0fac757a\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37031_ec60a6b1/index.m3u8\"},{\"name\":\"38\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E38\",\"link_embed\":\"https://vip.opstream16.com/share/decf0953ee783d807db519f9cc4bb27f\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37030_8a23e271/index.m3u8\"},{\"name\":\"37\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E37\",\"link_embed\":\"https://vip.opstream16.com/share/88927abd7def7f9921d1b3d2dc4f9693\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37029_aa445a99/index.m3u8\"},{\"name\":\"36\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E36\",\"link_embed\":\"https://vip.opstream16.com/share/fd9b2922227b0e2c04bd217bd36844e5\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37028_c16b71c9/index.m3u8\"},{\"name\":\"35\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E35\",\"link_embed\":\"https://vip.opstream16.com/share/2b99581c579d192b4b78c4a879b6e2e1\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37024_34bc8c44/index.m3u8\"},{\"name\":\"34\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E34\",\"link_embed\":\"https://vip.opstream16.com/share/5b629f02e23fcc3ef15e60dcf3dd8fcf\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37023_dc4a5cff/index.m3u8\"},{\"name\":\"33\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E33\",\"link_embed\":\"https://vip.opstream16.com/share/25607716f949b4cfd9254853c997c507\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37022_ec4384a6/index.m3u8\"},{\"name\":\"32\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E32\",\"link_embed\":\"https://vip.opstream16.com/share/7fc2e837c73d955ce1144ab2d5d765a7\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37021_e4d577fc/index.m3u8\"},{\"name\":\"31\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E31\",\"link_embed\":\"https://vip.opstream16.com/share/758206fbaf1b624515dc37767ef6edc8\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37020_d2f9171d/index.m3u8\"},{\"name\":\"30\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E30\",\"link_embed\":\"https://vip.opstream16.com/share/6afe0837f8aac5e0a2a7fa5161b07b56\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37019_f2f990b9/index.m3u8\"},{\"name\":\"29\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E29\",\"link_embed\":\"https://vip.opstream16.com/share/07044df9f0dc1d12e08825ac86cc9f6d\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37018_ef48f44b/index.m3u8\"},{\"name\":\"28\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E28\",\"link_embed\":\"https://vip.opstream16.com/share/b2b9e8eb2b9bc46c4f57785472b96f4d\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37017_c71852a8/index.m3u8\"},{\"name\":\"27\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E27\",\"link_embed\":\"https://vip.opstream16.com/share/e5b48cd740459076e51b98c3fd80d225\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37016_95f6e047/index.m3u8\"},{\"name\":\"26\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E26\",\"link_embed\":\"https://vip.opstream16.com/share/2cef62389cd33c26dc98735ef4cb5676\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37015_507decd6/index.m3u8\"},{\"name\":\"25\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E25\",\"link_embed\":\"https://vip.opstream16.com/share/a4de67584a6420f7c296da3dee64f99b\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37014_854a9361/index.m3u8\"},{\"name\":\"24\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E24\",\"link_embed\":\"https://vip.opstream16.com/share/5468b368b1b5adcbfc133ee8ee94bfa1\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37013_bc9090a6/index.m3u8\"},{\"name\":\"23\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E23\",\"link_embed\":\"https://vip.opstream16.com/share/e2d9bc580ff07f2c76c307150110f38f\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37012_72cf2c3e/index.m3u8\"},{\"name\":\"22\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E22\",\"link_embed\":\"https://vip.opstream16.com/share/c9017f70c00a8572737c9f1cdda325e1\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37011_f90ff7bd/index.m3u8\"},{\"name\":\"21\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E21\",\"link_embed\":\"https://vip.opstream16.com/share/9fa3de2829c14a18c8c41559fccb36a7\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37010_5aa608db/index.m3u8\"},{\"name\":\"20\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E20\",\"link_embed\":\"https://vip.opstream16.com/share/7b492a45ac8f4d1eab35500e72e94812\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37009_e3a021e8/index.m3u8\"},{\"name\":\"19\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E19\",\"link_embed\":\"https://vip.opstream16.com/share/3eb98498c491436f425cd830b3f447fa\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37005_02935ec3/index.m3u8\"},{\"name\":\"18\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E18\",\"link_embed\":\"https://vip.opstream16.com/share/721dbd458682f3503110a79406ebf37e\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37004_118b9936/index.m3u8\"},{\"name\":\"17\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E17\",\"link_embed\":\"https://vip.opstream16.com/share/ae805f92291f70c89704639204aa1d6c\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37003_89de4fce/index.m3u8\"},{\"name\":\"16\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E16\",\"link_embed\":\"https://vip.opstream16.com/share/eaa2ca8718edf05d6f2cd11b2516a2e0\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37002_60749394/index.m3u8\"},{\"name\":\"15\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E15\",\"link_embed\":\"https://vip.opstream16.com/share/125ffbed680fa712eaa4e8460b5449a6\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/37001_2c41158d/index.m3u8\"},{\"name\":\"14\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E14\",\"link_embed\":\"https://vip.opstream16.com/share/1128b9108f8997cf4b24e3b20e5ecceb\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36997_b0c21a36/index.m3u8\"},{\"name\":\"13\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E13\",\"link_embed\":\"https://vip.opstream16.com/share/8e5ac35e1661cc14cb518fa9b9364854\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36996_03bf9c6b/index.m3u8\"},{\"name\":\"12\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E12\",\"link_embed\":\"https://vip.opstream16.com/share/153f1e0bb44b5a2fa89752a5dfcd50d7\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36995_b4838194/index.m3u8\"},{\"name\":\"11\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E11\",\"link_embed\":\"https://vip.opstream16.com/share/42aba4b3ad24ee97a513f6cfe68819dd\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36994_f50ce81b/index.m3u8\"},{\"name\":\"10\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E10\",\"link_embed\":\"https://vip.opstream16.com/share/744a981e300806bc53b0346a98c8f28d\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36993_bf3ab114/index.m3u8\"},{\"name\":\"09\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E09\",\"link_embed\":\"https://vip.opstream16.com/share/d750e19732486e9e38f209862486c1cc\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36992_da2fc79e/index.m3u8\"},{\"name\":\"08\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E08\",\"link_embed\":\"https://vip.opstream16.com/share/6f2fda2e822df3f025822264e1d01e77\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36991_ffce53e3/index.m3u8\"},{\"name\":\"07\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E07\",\"link_embed\":\"https://vip.opstream16.com/share/a020312b805eb00036b5b5c530bd4816\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36990_662ac6f4/index.m3u8\"},{\"name\":\"06\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E06\",\"link_embed\":\"https://vip.opstream16.com/share/e540ce8c568c48bd1eeee1380484c4df\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36989_4305b414/index.m3u8\"},{\"name\":\"05\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E05\",\"link_embed\":\"https://vip.opstream16.com/share/5ffefd34956046c3be2e104f4e47f3dc\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36988_53c8c246/index.m3u8\"},{\"name\":\"04\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E04\",\"link_embed\":\"https://vip.opstream16.com/share/550871828cc1bca1c0d7df8db25f80a6\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36987_01cd8814/index.m3u8\"},{\"name\":\"03\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E03\",\"link_embed\":\"https://vip.opstream16.com/share/17b19c566ea15db6b7ca62186347b971\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36986_0e2bbef0/index.m3u8\"},{\"name\":\"02\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E02\",\"link_embed\":\"https://vip.opstream16.com/share/a16ffb344f7da08cf7d62e80d1df097c\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36985_9a4083f9/index.m3u8\"},{\"name\":\"01\",\"slug\":\"\",\"filename\":\"TanThienBaoGiam.E01\",\"link_embed\":\"https://vip.opstream16.com/share/d023b1ef80754864db9e412e1fd955ac\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36984_efe71ce4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bác Sĩ Quái Dị
+https://s5.phim1280.tv/20250316/iBhpHOtY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", One Husband Too Many
+https://vip.opstream11.com/20220301/681_6f3dd681/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Wrongful Death 2: Dòng Máu
+https://s6.kkphimplayer6.com/20260410/b96RSElg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sứ Mệnh Thần Chết: Thập Tự Kí Ức
+https://vip.opstream11.com/20220830/36068_fe724793/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phi Vụ Triệu Đô (Phần 3)
+https://s6.kkphimplayer6.com/20250827/GGTGj11D/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lớp Học Ám Sát (Phần 2)
+https://s5.phim1280.tv/20241229/T40EyiZy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Fukami Quyến Rũ Lạ Thường
+https://v7.kkphimplayer7.com/20260418/rsTmLWPY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hội Nữ Sinh
+https://s1.phim1280.tv/20231130/8FFR4wfm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trâm Khoá Tình
+https://s6.kkphimplayer6.com/20260306/JvmbaNe3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Không Thể Chạy Mãi
+https://s4.phim1280.tv/20241031/YvQrWslO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Robin Hood: Hoàng Tử Lục Lâm
+https://s1.phim1280.tv/20231018/AqRuAmoO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Roses (Hoa Hồng Có Gai)
+https://s6.kkphimplayer6.com/20251024/xhK0sfZu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thợ Săn Gringo
+https://s6.kkphimplayer6.com/20250709/kSaMy2SH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Toolbox Murders
+https://vip.opstream17.com/share/b619892e6df1fdaf1eb92ed22a80914a\",\"link_m3u8\":\"https://vip.opstream17.com/20240712/14837_3a4d1b76/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nguồn nhân lực
+https://vip.opstream15.com/20220323/1851_a43cf926/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Siêu sao
+https://vip.opstream90.com/20250718/8968_9d405c24/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nếu Như Yêu
+https://vip.opstream11.com/20220331/7781_7bcd4411/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vivo
+https://s2.phim1280.tv/20240218/0ucytBRv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thám Tử Lừng Danh Conan: Mê Cung Trong Thành Phố Cổ
+https://vip.opstream12.com/20220317/4060_3d2d5040/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Viên Đạn Trong Đầu
+https://s2.phim1280.tv/20240111/6OhZR1ga/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 7 Thi Thể
+https://s6.kkphimplayer6.com/20260126/DjhJ9N1L/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đại Học Ma
+https://s1.phim1280.tv/20231209/qfeiQSM9/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Câu lạc bộ thất tình
+https://vip.opstream15.com/20220302/445_5f648f4e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vách Ngăn
+https://s2.phim1280.tv/20231120/7C8xPmnC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Love, Rosie
+https://vip.opstream14.com/20220318/1600_0479b4f1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Họa Tâm: Song Sinh Kiếp
+https://s2.phim1280.tv/20231208/vobeEPC5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", ky-uc-khong-gian
+https://vip.opstream90.com/20260423/30033_31163fed/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiếu Ngạo Giang Hồ 2: Đông Phương Bất Bại
+https://s1.phim1280.tv/20231204/sjLN2Sih/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Before Midnight
+https://vip.opstream14.com/20220318/1565_766031df/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Magic Roundabout
+https://s1.phim1280.tv/20231212/qogsSO55/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thang Máy
+https://vip.opstream16.com/20221116/26035_8ae84283/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Hôn Nhân Hạnh Phúc Của Tôi (Phần 1)
+https://s2.phim1280.tv/20240310/CaZLaZtU/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Động Cơ Gây Án: Hung Thủ Thiếu Niên
+https://s4.phim1280.tv/20241010/tgnMnUGD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sideways
+https://vip.opstream14.com/20230802/38927_dfd29cf1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Săn Lùng
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231211/n6vEaEIi/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20231211/n6vEaEIi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Punisher
+https://vip.opstream11.com/20220315/2074_0b85e6ed/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", hang-rao
+https://vip.opstream16.com/20250523/43271_a7c3525b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khi Thời Gian Ngừng Trôi
+https://vip.opstream10.com/20220511/13372_7d249334/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Nữ Thợ Lặn Cuối Cùng
+https://s4.phim1280.tv/20241118/0ZjXDVeD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Monster 2003
+https://vip.opstream14.com/20230814/39039_fd057cd7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giả Kim Thuật Sư
+https://vip.opstream11.com/20220531/27401_1c841981/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khoảnh Khắc
+https://vip.opstream90.com/20260304/26473_26324d8e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Joker
+https://vip.opstream12.com/20220218/396_3846c68f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sự Thật Vô Hình
+https://vip.opstream16.com/20250814/45781_7b7bd53b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Minh Mậu
+https://s6.kkphimplayer6.com/20250621/wuXiJX8B/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đội Đặc Nhiệm CID (Phần 1)
+https://s5.phim1280.tv/20250224/U07VlzOe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chiến Tranh Băng Đảng
+https://vip.opstream16.com/share/356ce221cc12dab65cbc2bd0723bb798\",\"link_m3u8\":\"https://vip.opstream16.com/20231216/39251_0eb3c94c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gà Trống
+https://v7.kkphimplayer7.com/20260421/qT9nQMGa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Không Thể Chạm Vào Cô Ấy
+https://vip.opstream11.com/20220324/4362_81ee221f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ấm Áp Và Ngọt Ngào
+https://vip.opstream11.com/20230514/43425_a75f19b4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xin Lỗi, Em Yêu
+https://s6.kkphimplayer6.com/20250808/9J8O1HHe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kẻ Thù Địch
+https://s1.phim1280.tv/20231209/FWEFwoO4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Harsens Island Revenge
+https://vip.opstream12.com/20260114/31948_c366211d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", To Love-Ru Darkness
+https://s6.kkphimplayer6.com/20250802/LrucrsXw/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phi Vụ Động Trời
+https://vip.opstream11.com/20220315/2051_055e64c4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Wentworth (Phần 8)
+https://vip.opstream15.com/20220714/25958_7c8874cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhân Viên Tiếp Thị Qua Điện Thoại
+https://vip.opstream12.com/20241016/23911_4a1fee2e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thuần Huyết (Phần 6)
+https://vip.opstream15.com/20230216/33785_99cba11b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gọi Tôi Là Nhạc Đồng Quê: Beyoncé Và Chuyến Lưu Diễn Renaissance Tại Nashville
+https://s4.phim1280.tv/20241209/vfjboesu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vương Triều Tudors (Phần 4)
+https://vip.opstream15.com/20230501/38495_314f64c1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Spellbound
+https://vip.opstream14.com/20220322/2378_6ef0927d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giang Hồ Đẫm Máu (Phần 4)
+https://s3.phim1280.tv/20240731/KkE81XXq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vụ Án Bắt Dê
+https://s2.phim1280.tv/20240120/eD8hW77N/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Onimusha
+https://vip.opstream15.com/share/bf3c81428767d81d5d6907315cb587ee\",\"link_m3u8\":\"https://vip.opstream15.com/20231102/43808_bb997453/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoàng Phi Hồng:Vương Giả Vô Địch
+https://vip.opstream11.com/share/846c260d715e5b854ffad5f70a516c88\",\"link_m3u8\":\"https://vip.opstream11.com/20220303/805_5457138a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", I Am Groot (Phần 2)
+https://s3.phim1280.tv/20240325/Lh0LUo0H/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trở Về Tương Lai Phần 3
+https://vip.opstream10.com/20220321/1275_8c3817da/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoàng Cung Dậy Sóng
+https://s5.phim1280.tv/20241012/8BFHFUx1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Familia
+https://vip.opstream11.com/20231220/50030_b4df0333/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Câu Chuyện Về Một Con Nhện Yêu Tinh
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231009/2MpQ0SCk/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20231009/2MpQ0SCk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Giáo Ô Sun Nam
+https://vip.opstream10.com/20220524/16581_2a6f757c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nữ Hoàng Võ Thuật
+https://s2.phim1280.tv/20240301/WEY0vcYL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhiệt Độ Tình Yêu
+https://vip.opstream10.com/20220523/16324_51e6be91/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tinted With You
+https://vip.opstream10.com/20220330/3353_bd2b2e4e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Raymond và Ray
+https://s1.phim1280.tv/20231130/YZ0z4dmI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoan Nghênh Em Đến Bên Tôi
+https://s6.kkphimplayer6.com/20251026/o79n2gdS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Grand Army
+https://s4.phim1280.tv/20241124/uzkvnqyY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Màu Đỏ Anh Đào
+https://vip.opstream14.com/20220318/1603_58bd5aa3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tom Segura: Những Ý Nghĩ Xấu
+https://s5.phim1280.tv/20250514/8MdV4pZV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khẩn Cấp Thoát Ế
+https://s6.kkphimplayer6.com/20250620/oQp3n26a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đông Phương Phong Vân
+https://vip.opstream15.com/20241211/44872_eb25ab83/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ký Ức Của Kẻ Sát Nhân
+https://s6.kkphimplayer6.com/20250801/sLQOFagt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thượng Ẩn
+https://s5.phim1280.tv/20241018/GlBveo4t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Licorice Pizza
+https://s2.phim1280.tv/20231120/fuI1rLKZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi Là Người Qua Đường
+https://vip.opstream16.com/20221120/26205_7a9b24f0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Con Hẻm Ác Mộng
+https://s2.phim1280.tv/20230927/bqErvLAW/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mỹ Vị Trấn Yêu Ký
+https://s5.phim1280.tv/20250408/mm3Amnub/3500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kỳ Môn Tương Thuật
+https://s2.phim1280.tv/20231130/p0lDraYt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ma Búp Bê (Phần 1)
+https://vip.opstream15.com/20220417/4570_b6c474fd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thảm Họa Hạt Nhân
+https://s6.kkphimplayer6.com/20250704/Q8Qx0Ixc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Chú Chó Hoàng Gia
+https://s6.kkphimplayer6.com/20250610/MOJAfAgV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ma Thổi Đèn: Nam Hải Quy Hư
+https://s2.phim1280.tv/20240217/BHollRAB/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Anh Hùng Hai Mặt
+https://vip.opstream-short.com/20251101/6475_c0db17c6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mùa Hạ Thoáng Qua
+https://vip.opstream10.com/20220429/11041_d1dc39c7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nguyên Thủ Đối Đầu (Nguyên Thủ Quốc Gia)
+https://s6.kkphimplayer6.com/20250708/IcJtDcgy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyến Tàu Đêm
+https://s2.phim1280.tv/20240118/Hw0OVA9L/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 1994
+https://s1.phim1280.tv/20240124/6w2vzeVL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tom and Jerry: The Fast and the Furry
+https://s2.phim1280.tv/20240106/1ChTbuL2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Một Ngày Dùng Trộm Bạn Gái Của Bạn Thân
+https://vip.opstream10.com/20230226/26419_644db939/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Điệp Viên 007: Tình Yêu Đến Từ Nước Nga
+https://s2.phim1280.tv/20231025/3zyfEqae/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Death Stranding
+https://vip.opstream17.com/share/d04d42cdf14579cd294e5079e0745411\",\"link_m3u8\":\"https://vip.opstream17.com/20240330/3563_78ec7732/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gia Đình Addams 2 (Những Giá Trị Sống Của Gia Đình Addams)
+https://s6.kkphimplayer6.com/20251205/LqskBk5c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thị Trấn Chất Độc
+https://s4.phim1280.tv/20250228/MquJJi1e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tổng Thống 60 Ngày
+https://s1.phim1280.tv/20231216/btwWx9BR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khi Gái Văn Phòng Làm Thêm
+https://vip.opstream12.com/20220429/13338_5d712cb9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi Thuê Một Người Tình
+https://vip.opstream11.com/20220408/11545_6fcb46ba/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Quyết Tâm Của Em
+https://s2.phim1280.tv/20240121/3rQj1xMT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Showgirls
+https://s2.phim1280.tv/20240219/IwIYooaE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khu Nghỉ Mát Xác Sống
+https://s2.phim1280.tv/20231221/4WEuNtKg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giang Hồ Mê Điện Ảnh
+https://s2.phim1280.tv/20231228/tpemVP2l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Thiên Thần Chiến Trường
+https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241216/24kcNs88/index.m3u8\",\"link_m3u8\":\"https://s4.phim1280.tv/20241216/24kcNs88/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi Xuyên Vào Phim Để Chiến Đấu Cho Nữ Chính Yếu Đuối
+https://vip.opstream-short.com/20251118/37330_c87532b4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Em Ở Sâu Trong Tim Anh
+https://vip.opstream11.com/20220226/413_a1f0ea79/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Long Phụng Điếm
+https://s6.kkphimplayer6.com/20250625/LunEyUij/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Siêu Cảnh Sát
+https://s2.phim1280.tv/20240120/gl1s3gFX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Fires
+https://vip.opstream12.com/20260328/32621_15f68be0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hướng Dẫn Chiêm Tinh Cho Người Thất Tình (Phần 1)
+https://s3.phim1280.tv/20240621/mFDseZJu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đường Dây (Phần 2)
+https://s6.kkphimplayer6.com/20250815/kspVWbLC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đứa trẻ đó thật tuyệt (Phần 2)
+https://s5.phim1280.tv/20241125/6MkGvOwb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trang trại (Phần 4)
+https://s1.phim1280.tv/20240115/Sk6KqihP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Quán Trọ Tam Canh (Khách Trạm Canh Ba)
+https://s6.kkphimplayer6.com/20251125/BkkRCpli/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Duyên Khởi Trần Đường: Khuynh Thành
+https://vip.opstream90.com/20260214/25020_39e947eb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kỳ Nghỉ Chết Cười
+https://s1.phim1280.tv/20231022/X5HxpZke/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Huyền Thoại Ray Charles
+https://s6.kkphimplayer6.com/20260123/1GbRg4dD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Halloween của Hubie
+https://s2.phim1280.tv/20231128/8OKDxCRy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Điện thoại không phải là bố
+https://vip.opstream15.com/20220307/1152_99b20b8e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", trieu-khuong-dan
+https://vip.opstream17.com/share/82edc5c9e21035674d481640448049f3\",\"link_m3u8\":\"https://vip.opstream17.com/20240408/4226_bbce7910/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hai Mẹ, Hai Con (Phần 1)
+https://s5.phim1280.tv/20241108/IkGrDExp/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 3% (Phần 2)
+https://s6.kkphimplayer6.com/20260402/RNXAgPPm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sát Thủ Mắt Trái Tim
+https://vip.opstream15.com/20250306/50351_11df8f23/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Truy Hồi Công Lý
+https://s6.kkphimplayer6.com/20250601/FR6h3Qnh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sứ mệnh trái tim
+https://s1.phim1280.tv/20231007/jqMl9JiV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giấc Mơ Khiêu Vũ: Kẹp Hạt Dẻ Sô-cô-la Nóng
+https://s2.phim1280.tv/20240101/Rnv5EYSd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trò Chơi Sinh Tử
+https://vip.opstream13.com/20231215/1910_74083b50/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tam Nhân Hành
+https://s5.phim1280.tv/20250124/7KFlowgx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Huyền Thoại Rocky Balboa
+https://s2.phim1280.tv/20231203/jifSphX9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Victim
+https://vip.opstream10.com/20220325/1779_ab07d370/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Băng Cướp Xinh Đẹp
+https://s2.phim1280.tv/20231227/LuE0qkZb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đạo Lý của Thằng Lừa
+https://s4.phim1280.tv/20250312/o7omvzR5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hầu Tửu Quyền
+https://s6.kkphimplayer6.com/20250825/US5Bzzeh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chiến Binh
+https://s2.phim1280.tv/20240310/vrintS1h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thất Kiếm Hạ Thiên Sơn
+https://s6.kkphimplayer6.com/20250612/SzhBmaIv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Siêu Xe Đại Chiến
+https://s2.phim1280.tv/20231219/ll8fCQ8i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mùa Xuân Hoa Nở
+https://vip.opstream14.com/20230926/40095_e6311bf3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khử Tà Diệt Ma 2
+https://vip.opstream15.com/20220511/13028_612067e9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thực Nhân Ngư
+https://s3.phim1280.tv/20240726/qBgjIyCN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tây Hành Kỷ (Phần 1)
+https://vip.opstream14.com/20231019/40413_46fdb3bd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Máu nóng và cơn thịnh nộ bùng nổ
+https://vip.opstream13.com/20251118/17880_2fabd3ce/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Long Sinh Cửu Tử
+https://s6.kkphimplayer6.com/20250926/frIAcpcm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thiết Kế Tình Yêu
+https://s6.kkphimplayer6.com/20251003/lumqFXyM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiên Tạc Tam Bảo
+https://s1.phim1280.tv/20231006/TgVtSZCA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gã Trộm Trên Trời Rơi Xuống
+https://s6.kkphimplayer6.com/20251113/dXpPJf2y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sát Nhân Thỏ Trả Thù
+https://s2.phim1280.tv/20240125/bczAS3O7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Pernille (Phần 2)
+https://s5.phim1280.tv/20250516/DrZKHp4d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Đời Thứ Ba
+https://s5.phim1280.tv/20240918/PomjmzQA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thị Trấn Ác Mộng (Phần 3)
+https://s5.phim1280.tv/20250518/J0DuH8hG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ẩm Thực Tranh Tài
+https://vip.opstream13.com/20251104/17038_02bf1a8b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Nàng Phun Lửa
+https://s4.phim1280.tv/20250410/DOPe1Po8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đội Quân Đạo Tặc
+https://s6.kkphimplayer6.com/20260112/ZN3JBIBK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Nhân Bản
+https://s2.phim1280.tv/20240104/GBHFrxTM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Hành Trình Tuyệt Vời (Phần 2)
+https://s4.phim1280.tv/20241009/FKO5M6rz/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cửu Diệu Phong Thiên: Khế Ước Ngũ Hành
+https://vip.opstream-short.com/20251104/8100_9cea886b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Con Trai Của Ngàn Người Cha
+https://s6.kkphimplayer6.com/20251120/QWFTtkpp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đom Đóm
+https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240828/a1kOo6b5/index.m3u8\",\"link_m3u8\":\"https://s3.phim1280.tv/20240828/a1kOo6b5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Phản Kích Của Số 2 (Phần 2)
+https://vip.opstream13.com/20251002/9778_f52b43f6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Nhạc Sĩ Và Hòn Đảo (Phần 2)
+https://s5.phim1280.tv/20241229/othaNjQW/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cây Lê Dại
+https://s2.phim1280.tv/20240217/HUr978tg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sắc Đẹp Nguy Hiểm
+https://s3.phim1280.tv/20240810/gSzycovu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yêu Ở Thị Trấn Hùng Nhân
+https://s2.phim1280.tv/20231220/kixYHdrK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dạ Khổng Tước
+https://vip.opstream14.com/20220610/13850_bee2668c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cậu Bé Rừng Xanh
+https://s2.phim1280.tv/20231023/bIjBLmQy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", New Normal Zine
+https://s3.phim1280.tv/20240606/ooOqkmTh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tìm Lại Chính Mình
+https://s3.phim1280.tv/20240614/2yC5xUL1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiệm Đồ Cổ Á Xá
+https://vip.opstream90.com/20251217/20384_632e701d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mười Cuộc Hẹn Hò
+https://vip.opstream-short.com/20251124/47661_edd5ea0b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tour de France: Trên từng dặm đường
+https://vip.opstream11.com/20230610/44568_7c916954/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lockwood và Đồng sự
+https://s2.phim1280.tv/20240301/lVxxQl16/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trong Khu Phố Tàu
+https://vip.opstream10.com/20241127/28358_489dde05/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vô Danh
+https://s2.phim1280.tv/20240120/d25x5cwr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Màn Đêm Kéo Đến
+https://s5.phim1280.tv/20240906/CVJ6CJE2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", My Carpathian Grandpa
+https://s3.phim1280.tv/20240619/5ZTBQheL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mái Trường Yên Tĩnh
+https://vip.opstream13.com/20251022/13689_9b4192ee/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giáng Sinh? Nghỉ lễ? Sao cũng được
+https://s5.phim1280.tv/20250116/t4FUu4J6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dương Gia Tướng
+https://vip.opstream16.com/share/95d8f6ff68222377d570a652eb96f082\",\"link_m3u8\":\"https://vip.opstream16.com/20221020/24327_3086aaf0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", StartUp (Phần 1)
+https://s1.phim1280.tv/20231220/vSU5ExMI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", White Fang
+https://vip.opstream14.com/20230415/35442_47bf2365/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", vua-soi-phan-2
+https://s6.kkphimplayer6.com/20250912/JFJwT6F1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", nhung-nguoi-hung-duong-sat-tham-kich-bhopal-1984
+https://s4.phim1280.tv/20240920/jUKPq8ct/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Born a Champion
+https://vip.opstream12.com/20250804/27950_950c011d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thiên Tứ Tiểu Hồng Nương
+https://s4.phim1280.tv/20240913/KFUL77vT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tam Độ Mai 3: Thủy Vân Gian
+https://vip.opstream11.com/20241116/57618_c0a1c2f3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nụ Hôn Của Kẻ Giăng Lưới
+https://s6.kkphimplayer6.com/20251121/KfIxuU0L/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bác Sĩ Khoa Sản
+https://s1.phim1280.tv/20240122/crKnmk3H/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bác Sĩ Pudhiphat
+https://s5.phim1280.tv/20250406/ZhVvRP5C/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tay Anh Giữ Một Vì Sao
+https://vip.opstream90.com/20260102/21538_3a9ba451/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Một Paris rất... sai
+https://s6.kkphimplayer6.com/20250912/sq5a0p6E/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Im Lặng
+https://s3.phim1280.tv/20240325/uVZEf3sY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cười Dưới Bầu Trời U Ám
+https://vip.opstream14.com/20230315/33724_57b99af2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Love Live! Siêu Sao!! (Mùa 2)
+https://s3.phim1280.tv/20240503/9u1XeXXs/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", An ninh quốc gia
+https://s2.phim1280.tv/20230917/hsk3Xt7K/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Secret Life Of Our Pets
+https://vip.opstream17.com/share/8b0dc65f996f98fd178a9defd0efa077\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1352_d5485ad3/index.m3u8\"},{\"name\":\"03\",\"slug\":\"\",\"filename\":\"The.Secret.Life.Of.Our.Pets.S01E03.1080p.NF.WEB-DL.DD5.1.H.264-PlayWEB(1)\",\"link_embed\":\"https://vip.opstream17.com/share/3e313b9badf12632cdae5452d20e1af6\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1351_342046b9/index.m3u8\"},{\"name\":\"02\",\"slug\":\"\",\"filename\":\"The.Secret.Life.Of.Our.Pets.S01E02.1080p.NF.WEB-DL.DD5.1.H.264-PlayWEB(1)\",\"link_embed\":\"https://vip.opstream17.com/share/861dc9bd7f4e7dd3cccd534d0ae2a2e9\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1350_d3c149cb/index.m3u8\"},{\"name\":\"01\",\"slug\":\"\",\"filename\":\"The.Secret.Life.Of.Our.Pets.S01E01.1080p.NF.WEB-DL.DD5.1.H.264-PlayWEB(1)\",\"link_embed\":\"https://vip.opstream17.com/share/bcc0d400288793e8bdcd7c19a8ac0c2b\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1349_5361c842/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nguyên Thủy
+https://s4.phim1280.tv/20240918/AXGnmNRk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cửu Lưu Bá Chủ
+https://vip.opstream11.com/20230703/45560_cfba1037/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bí Mật Của Hoa Hồng
+https://vip.opstream-short.com/20251028/2836_6e0e2429/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tân Tẩy Oan Lục: Tống Từ
+https://vip.opstream14.com/20220411/7154_ecc14ef0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nghệ thuật của tự nhiên (Phần 1)
+https://vip.opstream10.com/20220703/23229_33916ac6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mỹ Nhân Người Máy
+https://vip.opstream12.com/20251119/30375_f5d0adbd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nam Nhi Vương 2
+https://s6.kkphimplayer6.com/20250808/2u3dhAv1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kẻ Săn Lùng Sợ Hãi
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240121/MvRFIFvS/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20240121/MvRFIFvS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cậu Bé Người Gỗ (Live Action)
+https://vip.opstream14.com/20220909/21225_70a2ea3a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tình yêu là khó khăn
+https://vip.opstream10.com/20220311/421_1e8de0a8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Make Up
+https://s2.phim1280.tv/20240106/VsEwm2aP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Out of Order
+https://vip.opstream90.com/20251004/13839_e286a04b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tranh Đấu
+https://s1.phim1280.tv/20231120/lyqiBo5x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lời Thì Thầm
+https://vip.opstream11.com/share/af454808bc3f90fc29155bf1660465ee\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24615_2c315a53/index.m3u8\"},{\"name\":\"2\",\"slug\":\"2\",\"filename\":\"loi-thi-tham-whisper-tap-2\",\"link_embed\":\"https://vip.opstream11.com/share/a13338b336ac58abe821c72b19b08159\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24614_cc629765/index.m3u8\"},{\"name\":\"3\",\"slug\":\"3\",\"filename\":\"loi-thi-tham-whisper-tap-3\",\"link_embed\":\"https://vip.opstream11.com/share/ffe8ce31adb4026c6cc178921aff2942\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24618_811ca14f/index.m3u8\"},{\"name\":\"4\",\"slug\":\"4\",\"filename\":\"loi-thi-tham-whisper-tap-4\",\"link_embed\":\"https://vip.opstream11.com/share/a1d29909828423591afb051b28d964a9\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24617_5317e8bf/index.m3u8\"},{\"name\":\"5\",\"slug\":\"5\",\"filename\":\"loi-thi-tham-whisper-tap-5\",\"link_embed\":\"https://vip.opstream11.com/share/537ca67a1852ec7e93feda1fa86a3a05\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24619_5eaf6f45/index.m3u8\"},{\"name\":\"6\",\"slug\":\"6\",\"filename\":\"loi-thi-tham-whisper-tap-6\",\"link_embed\":\"https://vip.opstream11.com/share/dd26f45f0e6f848d617be1f744c91f94\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24620_a448195f/index.m3u8\"},{\"name\":\"7\",\"slug\":\"7\",\"filename\":\"loi-thi-tham-whisper-tap-7\",\"link_embed\":\"https://vip.opstream11.com/share/f42056594c9e8126804b22d594c1a69f\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24621_bb6b1c6b/index.m3u8\"},{\"name\":\"8\",\"slug\":\"8\",\"filename\":\"loi-thi-tham-whisper-tap-8\",\"link_embed\":\"https://vip.opstream11.com/share/5cd39efd738459cf272922df6ef67cea\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24622_41ba9e5a/index.m3u8\"},{\"name\":\"9\",\"slug\":\"9\",\"filename\":\"loi-thi-tham-whisper-tap-9\",\"link_embed\":\"https://vip.opstream11.com/share/3c567b3a11dc09983b9b265d43f27563\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24623_28d23e60/index.m3u8\"},{\"name\":\"10\",\"slug\":\"10\",\"filename\":\"loi-thi-tham-whisper-tap-10\",\"link_embed\":\"https://vip.opstream11.com/share/432f8237bc52bc0892172e3b01991fe2\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24624_33c5053b/index.m3u8\"},{\"name\":\"11\",\"slug\":\"11\",\"filename\":\"loi-thi-tham-whisper-tap-11\",\"link_embed\":\"https://vip.opstream11.com/share/edf5344746876114b61eaee7652037c5\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24625_4687c129/index.m3u8\"},{\"name\":\"12\",\"slug\":\"12\",\"filename\":\"loi-thi-tham-whisper-tap-12\",\"link_embed\":\"https://vip.opstream11.com/share/cbfa5e2e4c9c4aaf2309e86e6726b274\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24626_210733ed/index.m3u8\"},{\"name\":\"13\",\"slug\":\"13\",\"filename\":\"loi-thi-tham-whisper-tap-13\",\"link_embed\":\"https://vip.opstream11.com/share/ca4b4f737a52752ca8ac87d661b4328c\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24627_f898bfd8/index.m3u8\"},{\"name\":\"14\",\"slug\":\"14\",\"filename\":\"loi-thi-tham-whisper-tap-14\",\"link_embed\":\"https://vip.opstream11.com/share/4b59d913666682dd15f4516872e7f4ac\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24628_1afa6d46/index.m3u8\"},{\"name\":\"15\",\"slug\":\"15\",\"filename\":\"loi-thi-tham-whisper-tap-15\",\"link_embed\":\"https://vip.opstream11.com/share/8b2aee999ceaffac3be063b1db40b076\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24629_7a1b921d/index.m3u8\"},{\"name\":\"16\",\"slug\":\"16\",\"filename\":\"loi-thi-tham-whisper-tap-16\",\"link_embed\":\"https://vip.opstream11.com/share/5349b04f18ab7fbe289988507bb1ea35\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24630_3d4e3ccf/index.m3u8\"},{\"name\":\"17\",\"slug\":\"17\",\"filename\":\"loi-thi-tham-whisper-tap-17\",\"link_embed\":\"https://vip.opstream11.com/share/eb3cee21198139fa6a21866d764cc4b8\",\"link_m3u8\":\"https://vip.opstream11.com/20220515/24631_25051c9b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Alice
+https://vip.opstream16.com/20220412/7465_9dbefe2e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", S.W.A.T.: Đọ Súng
+https://s2.phim1280.tv/20240103/DsJ1cd19/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyển Số (Phần 1)
+https://s6.kkphimplayer6.com/20251009/e4fD4Hjl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tế Công Hàng Yêu
+https://s1.phim1280.tv/20231008/m86jRNaB/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Selena Gomez: My Mind & Me
+https://s2.phim1280.tv/20231202/o4t4yb3D/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đấu Võ Sinh Tử
+https://s1.phim1280.tv/20231128/abmjBQRe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Terrace House: Tiểu bang Aloha (Phần 2)
+https://vip.opstream10.com/20220709/24043_7a2ed519/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Murder on the Orient Express
+https://vip.opstream14.com/20230712/38542_57c0e992/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Huyền Thoại Robin Hood
+https://s1.phim1280.tv/20231126/pNHPNCGL/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mẹ Kế Tinh Nghịch
+https://vip.opstream10.com/20230415/26906_33096ca1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Griselda
+https://vip.opstream11.com/20240126/50919_a8f00562/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vũ Động Càn Khôn (Phần 3)
+https://vip.opstream13.com/20251201/20717_85410779/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Đua (Phần 6)
+https://vip.opstream13.com/20260128/21893_b1d69d7f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trăm Năm Cô Đơn
+https://s4.phim1280.tv/20241212/5qYen65x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trái tim rồng: Sự khởi đầu mới
+https://vip.opstream12.com/20220312/3172_7a2c9966/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Võ Đường Cobra Kai - Tiệc Hậu
+https://s2.phim1280.tv/20240123/25bJtE7j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ōoku: Nam Nhân Hậu Cung
+https://s1.phim1280.tv/20240306/jJ3oRcht/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Chồng Đep Trai Của Bạn Thân
+https://vip.opstream10.com/share/6b73e3e68e1204087db8f566beb01d57\",\"link_m3u8\":\"https://vip.opstream10.com/20230214/26339_81040764/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Caught in the Web
+https://s1.phim1280.tv/20231209/Ikh8kxgU/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Sống Của Bệnh SARS
+https://s1.phim1280.tv/20230930/pGi17Ntt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Gái Đồ Long
+https://vip.opstream14.com/share/8735c937a659ef5138a7f5bd7bf59ae6\",\"link_m3u8\":\"https://vip.opstream14.com/20230206/30432_14d2f48f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Huyền Thoại Kamui
+https://s2.phim1280.tv/20240112/r26o28eF/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyển Sinh Thành Quý Tộc, Tôi Sử Dụng Kỹ Năng Giám Định Để Tiến Thân Trong Thế Giới (Phần 2)
+https://s4.phim1280.tv/20250210/afrb7e3O/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mất Tích (Phần 5)
+https://s6.kkphimplayer6.com/20260131/qnh6uTpX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhật Ký Phiêu Lưu Của Archibald (Phần 2)
+https://s5.phim1280.tv/20241125/CQPfoDZP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Jack Whitehall: Du Lịch Cùng Cha Tôi (Phần 1)
+https://s1.phim1280.tv/20240121/XIJxTKFl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Nhà Văn Tự Do
+https://s2.phim1280.tv/20240116/3Vpd3M4h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cả một đời người với Jamie Demetriou
+https://s1.phim1280.tv/20231128/HXhCVzkr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Doraemon the Movie: Nobita and the Green Giant Legend
+https://vip.opstream12.com/20220317/3999_bf9cf943/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vụ Lừa Đảo Mcmillions
+https://vip.opstream12.com/20251118/30323_99a38121/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Đời Đảo Ngược Lên Đỉnh Cao
+https://vip.opstream-short.com/20251123/44916_9a4f82e5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Rắn ăn thịt
+https://vip.opstream13.com/20251009/11672_2e23b644/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngước Nhìn Tôi
+https://s1.phim1280.tv/20230930/0TYLjwjk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thần Chiến Sa Mạc
+https://vip.opstream-short.com/20251119/39523_6c6094f2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bà Hoàng Phương Nam (Phần 3)
+https://s5.phim1280.tv/20241011/mqBWtI2x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ba chị em (Phần 2)
+https://vip.opstream10.com/20220924/25004_9bbd0d94/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Học Viện Lúa Gạo (Phần 2)
+https://s6.kkphimplayer6.com/20251205/OB7YKYHa/3500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hận Thù Đường Đời
+https://s6.kkphimplayer6.com/20251023/uYQcW7FX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hội ngộ
+https://vip.opstream90.com/20251130/18817_c26eb42a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Fantasia
+https://s2.phim1280.tv/20240102/tq6EMWOg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Người Ở Lại
+https://s6.kkphimplayer6.com/20251012/cst58I8t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Heidi Điên Cuồng
+https://s2.phim1280.tv/20230923/kSz5skUD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thời Khắc Kỳ Diệu Của Chúng Tôi
+https://s4.phim1280.tv/20240910/aqz1fRvC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chẳng Thể Lý Giải Nổi Aharen-san Mùa 2
+https://vip.opstream15.com/20250423/51611_6c3b1652/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giá Trị Của Lời Nói Dối
+https://s2.phim1280.tv/20240301/yP7fAJTU/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xứ sở robot
+https://s4.phim1280.tv/20250315/6iTua1Sx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chinh Phục Thanh Xuân
+https://vip.opstream15.com/20220524/16331_e141f8bd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đường cùng
+https://s1.phim1280.tv/20231127/MQgAqtFK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Abyss
+https://vip.opstream90.com/20251007/14403_2258803b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Eugene Levy, Vị Lữ Khách Miễn Cưỡng (Phần 2)
+https://vip.opstream17.com/share/915e3742d51cb477268ba29275c3ce09\",\"link_m3u8\":\"https://vip.opstream17.com/20240521/8442_3e4877af/index.m3u8\"},{\"name\":\"06\",\"slug\":\"\",\"filename\":\"The.Reluctant.Traveler.with.Eugene.Levy.S02E06.Greece.Island-Hopping.in.the.Aegean.2160p.ATVP.WEB-DL.DDP5.1.HDR.H.265-NTb\",\"link_embed\":\"https://vip.opstream17.com/share/43a2348027cdb8d216f4fb15fd9e1e4f\",\"link_m3u8\":\"https://vip.opstream17.com/20240521/8441_39c8f40c/index.m3u8\"},{\"name\":\"05\",\"slug\":\"\",\"filename\":\"The.Reluctant.Traveler.with.Eugene.Levy.S02E05.Italy.La.Dolce.Vita.2160p.ATVP.WEB-DL.DDP5.1.HDR.H.265-NTb\",\"link_embed\":\"https://vip.opstream17.com/share/eba55fca4575e35eec8587f10ba60a43\",\"link_m3u8\":\"https://vip.opstream17.com/20240521/8440_b7caf3ef/index.m3u8\"},{\"name\":\"04\",\"slug\":\"\",\"filename\":\"The.Reluctant.Traveler.with.Eugene.Levy.S02E04.Germany.The.Health.Resort.2160p.ATVP.WEB-DL.DDP5.1.HDR.H.265-NTb\",\"link_embed\":\"https://vip.opstream17.com/share/63ceea56ae1563b4477506246829b386\",\"link_m3u8\":\"https://vip.opstream17.com/20240521/8438_934b1532/index.m3u8\"},{\"name\":\"03\",\"slug\":\"\",\"filename\":\"The.Reluctant.Traveler.with.Eugene.Levy.S02E03.France.The.Secrets.of.Saint-Tropez.2160p.ATVP.WEB-DL.DDP5.1.HDR.H.265-NTb\",\"link_embed\":\"https://vip.opstream17.com/share/5f8e2fa1718d1bbcadf1cd9c7a54fb8c\",\"link_m3u8\":\"https://vip.opstream17.com/20240521/8437_cc7cfce5/index.m3u8\"},{\"name\":\"02\",\"slug\":\"\",\"filename\":\"The.Reluctant.Traveler.with.Eugene.Levy.S02E02.Scotland.My.Mothers.Country.2160p.ATVP.WEB-DL.DDP5.1.HDR.H.265-NTb\",\"link_embed\":\"https://vip.opstream17.com/share/ad16fe8f92f051afbf656271afd7872d\",\"link_m3u8\":\"https://vip.opstream17.com/20240521/8435_c37fa005/index.m3u8\"},{\"name\":\"01\",\"slug\":\"\",\"filename\":\"The.Reluctant.Traveler.with.Eugene.Levy.S02E01.Sweden.Midsummer.2160p.ATVP.WEB-DL.DDP5.1.HDR.H.265-NTb\",\"link_embed\":\"https://vip.opstream17.com/share/1906f3350e1fa43adced642ff351c943\",\"link_m3u8\":\"https://vip.opstream17.com/20240521/8434_86475f24/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Anh ấy là tất cả
+https://s2.phim1280.tv/20231128/fsm0lgq4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Knight of Cups
+https://vip.opstream10.com/20220325/1759_0a102314/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hostel: Part II
+https://vip.opstream14.com/20230427/35932_e6fef5e6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Sống Lãng Mạn
+https://vip.opstream11.com/20220818/35717_35e1626a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sổ Tay Chăm Con Của Ông Bố Bỉm Sữa
+https://vip.opstream13.com/20240412/3586_4029c945/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phúc lành cho thế giới tuyệt vời! Phần 2
+https://vip.opstream15.com/20220418/4989_dea98406/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Bạn Ma Cà Rồng
+https://s2.phim1280.tv/20240303/yyczAAgm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hồ Sơ Cá Sấu
+https://s6.kkphimplayer6.com/20250903/MNfNIvOO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chiếc biển quảng cáo tai quái
+https://s2.phim1280.tv/20231112/0ZHbtSoQ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đứa Con Của Sói
+https://s2.phim1280.tv/20231208/6XhENndt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mùa Hè Của Luca
+https://s5.phim1280.tv/20250327/hriJG8LV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Võ sĩ báo thù
+https://s2.phim1280.tv/20231120/q1uyjQAA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Quý Bà Claude
+https://s3.phim1280.tv/20240814/0ojwRuLO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Fauci
+https://vip.opstream12.com/20220317/4008_1c5c4634/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bẫy Thực Tại Kinh Hoàng
+https://s2.phim1280.tv/20240125/waRNqQyL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nữ Tu Bóng Tối
+https://vip.opstream15.com/20250305/50225_755e7bab/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Côn Đồ
+https://s4.phim1280.tv/20250201/ykQ3ubBO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thế Giới Dị Nhân (Dị Nhân Chi Hạ)
+https://s6.kkphimplayer6.com/20260108/SwEEoxDz/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Re:Zero − Bắt Đầu Ở Thế Giới Khác
+https://vip.opstream14.com/20220423/9557_ae8b15dd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Truck Stop Women
+https://vip.opstream17.com/20240709/14641_141df24e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giai Điệu Gợi Tình
+https://vip.opstream11.com/20240916/52951_bf8e28a6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lá thư của con dấu quỷ
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231001/hJikbYvD/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20231001/hJikbYvD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cabin Của Tiến Sĩ Caligari
+https://s2.phim1280.tv/20240214/LmCbtMn5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người đàn ông bị truy nã
+https://s3.phim1280.tv/20240603/Sb43uBkP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Marvel's The Defenders
+https://vip.opstream14.com/20230127/29961_627706bf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Recoil
+https://vip.opstream14.com/20220423/9494_dea99eb9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phim Trường Lặng Thinh: Mặt Tối Của Phim Truyền Hình Nhí
+https://vip.opstream12.com/20251117/30270_f5e98801/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuốc Xe Âm Phủ
+https://v7.kkphimplayer7.com/20260502/89qXv3Fa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngũ Phúc Lâm Môn
+https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250125/PdvTA9jt/index.m3u8\",\"link_m3u8\":\"https://s4.phim1280.tv/20250125/PdvTA9jt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xung Phong Chiến Cảnh
+https://vip.opstream16.com/share/3505514e9f9ba3724fc51cb3278e0e67\",\"link_m3u8\":\"https://vip.opstream16.com/20231107/36979_f9949185/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", EGO : Không Thể Tin Tưởng Đàn Ông
+https://vip.opstream10.com/20230415/26909_df96945b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phòng 2806: Lời cáo buộc
+https://s5.phim1280.tv/20241206/JPCj3jlR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiêu Nhân
+https://s5.phim1280.tv/20241030/SGbkcDvu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyến Đi Siêu Quậy
+https://s2.phim1280.tv/20231201/achaFWci/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngoại Tình Hoàng Tộc
+https://s2.phim1280.tv/20231217/e9dV9pZw/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thánh Ăn Đại Đường (Phần 2)
+https://s1.phim1280.tv/20240313/YXMHftj6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Oán Hận Phải Trả
+https://vip.opstream12.com/20220430/13413_2d5f64d8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mạng Đổi Mạng
+https://s2.phim1280.tv/20240125/1JUFbmAg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhện Khổng Lồ 3
+https://vip.opstream12.com/20220417/10989_d075608d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đội Điều Tra Linh Tinh
+https://vip.opstream16.com/share/8433ddfeaa9887f62f36e8c05b6e7022\",\"link_m3u8\":\"https://vip.opstream16.com/20250819/46166_8433ddfe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ông Trùm Mông Má
+https://vip.opstream14.com/20230313/33667_9dee9adb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nửa Dòng Máu Anh Hùng
+https://vip.opstream16.com/20250517/42645_fec55d6c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhiếp Ẩn Nương
+https://vip.opstream14.com/20220617/14783_9e8d2f96/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Disconnect
+https://vip.opstream12.com/20250413/27016_eb94d250/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thần Khuyển Tiểu Thất 3
+https://vip.opstream12.com/20220407/8209_5aabb535/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyến trăng mật bên mẹ
+https://s2.phim1280.tv/20231119/XUz0wOMl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoàng Hà Đại Phong Vân
+https://vip.opstream13.com/20250918/8734_ae502204/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tom and Jerry: Back to Oz
+https://vip.opstream14.com/20230731/38894_80385c7d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Câu Chuyện Tình Yêu
+https://vip.opstream11.com/share/35ec253885cf090f80881b44180afb00\",\"link_m3u8\":\"https://vip.opstream11.com/20220403/9128_47b41f04/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chim Lửa
+https://vip.opstream10.com/20230317/26608_f58aa40c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Cô Bạn Thân Xinh Đẹp Của Vợ
+https://vip.opstream10.com/20230325/26684_6218fe61/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giao Hoán Sát Nhân
+https://s6.kkphimplayer6.com/20260105/eq7AKwxE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đàm Phán
+https://s2.phim1280.tv/20230916/Z77QEeYL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Indigo
+https://s4.phim1280.tv/20240918/H04UGOnP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Câu Chuyện Về Benedetta
+https://s2.phim1280.tv/20231203/uLVh2knT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đám Cưới Hợp Đồng Đang Diễn Ra
+https://vip.opstream-short.com/20251102/6898_76383b34/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngã Rẽ Tử Thần: Huyết Thống
+https://s1.phim1280.tv/20231020/yhTB7bwl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", ATM 2: Kết Hôn
+https://s1.phim1280.tv/20240131/qNp79d1H/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Võ Sĩ Đạo Thái
+https://s1.phim1280.tv/20231126/H0D4QFp5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Caddo Lake
+https://vip.opstream12.com/20250917/28037_af698f2b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cell
+https://vip.opstream14.com/20230218/32166_b2c0de56/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô nàng dễ dãi
+https://vip.opstream11.com/20221127/37976_208588cf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đám Cưới Tại Hy Lạp 3
+https://s6.kkphimplayer6.com/20250822/oZWAh5Ka/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gương Đen (Phần 5)
+https://s2.phim1280.tv/20231003/P8e4eRtG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chỉ có thể phản bội thế giới
+https://vip.opstream13.com/20251025/13813_d8ffe009/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thị Tộc Nhẫn Giả
+https://s2.phim1280.tv/20231205/1bgwAfUS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 2 Moons The Ambassador
+https://s2.phim1280.tv/20240312/GJnuPSGx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Không Tìm Thấy Người Này (2018)
+https://vip.opstream10.com/20220309/216_aa62f4cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bí ẩn của các chiến binh Terracotta
+https://s3.phim1280.tv/20240612/TJt4hXDy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Scooby-Doo 2: Quái Vật Hiện Hình
+https://s2.phim1280.tv/20240118/vOCzScuw/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Ngả Đường Ước Mơ (Phần 1)
+https://s1.phim1280.tv/20240222/bbjLHlQ3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Minh Nguyệt Không Chỉ Chiếu Riêng Ta
+https://vip.opstream-short.com/20251202/53971_4eedc1ec/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiếng ồn
+https://vip.opstream15.com/20230318/35793_0348f7f7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tân Môn Huyền Án
+https://s1.phim1280.tv/20231114/TN5aAcCy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khúc Hát Trên Môi
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231208/lZloncVL/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20231208/lZloncVL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Quyền Quý
+https://s4.phim1280.tv/20250511/llVBfDDk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yêu Trong Lửa Hận
+https://vip.opstream15.com/20231103/43931_89a5cd91/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trò Chơi Chiến Hữu: Thanh Xuân Thức Giấc
+https://vip.opstream90.com/20240810/2594_ce758408/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tin tưởng
+https://vip.opstream15.com/20220312/1196_fc15cb52/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mysteria Friends
+https://vip.opstream14.com/20220703/16908_ea03e5b5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi Là Tonya
+https://s1.phim1280.tv/20231126/DnO85opW/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", A Christmas Prince
+https://vip.opstream14.com/20230208/30756_a2769401/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kiểu Nguyệt Lưu Hỏa
+https://s3.phim1280.tv/20240730/NZphPKjg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trở Về Miền Khai Hoang
+https://vip.opstream90.com/20250918/12567_81e4fe93/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bắt Cóc Bất Thành
+https://s2.phim1280.tv/20240120/ZR54BUbo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Retsuko hung hăng (Phần 4)
+https://s4.phim1280.tv/20240920/L4j4jSC3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thợ Săn Quốc Xã (Phần 2)
+https://s6.kkphimplayer6.com/20251205/BH7BpyCm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Cuộc Phiêu Lưu Vô Cùng Hoang Đường Của Dick Turpin
+https://s2.phim1280.tv/20240310/eLkgTH0f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 99 Moons
+https://s2.phim1280.tv/20230922/0074KtxR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Hùng Yếu Đuối
+https://s4.phim1280.tv/20250425/1wMaOsDa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cổng Chiến Binh
+https://s2.phim1280.tv/20231119/7JXrRxkl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trò chơi thanh đạm
+https://vip.opstream11.com/20220228/590_f23952c5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Chiến Tỏ Tình (Phần 2)
+https://vip.opstream14.com/20220417/8385_4134e241/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", UniverXO Dabiz
+https://s4.phim1280.tv/20241221/36Rzzzqv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chiếc Xuồng Của Manitu
+https://s6.kkphimplayer6.com/20251223/0NZgRQ3V/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thế Giới Ma Quái
+https://vip.opstream15.com/20220509/12521_b40af50b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mẹ Ơi Chạy Mau, Bố Đuổi Đến Nơi Rồi
+https://s5.phim1280.tv/20250514/qixzFC6n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chặng đường Pon
+https://vip.opstream16.com/20240106/40299_8e938ec1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lực Lượng Đặc Biệt
+https://vip.opstream11.com/20221212/39521_a422082d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bill Burr: Walk Your Way Out
+https://s2.phim1280.tv/20240208/tyvaYXW8/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thủy Long Ngâm
+https://vip.opstream90.com/20260320/27603_c657bb88/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kế Hoạch Đào Tẩu: Giải Cứu
+https://s1.phim1280.tv/20231027/U0zDcorQ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sát Thủ Vượt Thời Gian
+https://s1.phim1280.tv/20231101/U0V7T31p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Chiến Không Giới Tuyến
+https://vip.opstream16.com/share/2926a056ab7387e08459497d7e416017\",\"link_m3u8\":\"https://vip.opstream16.com/20231117/37660_ba32297c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đột Phá Quyết Định
+https://s5.phim1280.tv/20250108/E70T7U0s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Road to Ninja: Naruto the Movie
+https://vip.opstream14.com/20220317/1401_283c0175/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Monkie Kid (Phần 2)
+https://vip.opstream16.com/20250519/43160_08aedba6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hồ Ly Dâm Bụt
+https://s2.phim1280.tv/20240301/uoCUKIrS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Monsters, Inc.
+https://vip.opstream15.com/20220316/1443_fe337a13/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiếng Anh Là Chuyện Nhỏ
+https://s2.phim1280.tv/20231103/6QfK5UhZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vỏ bọc ma: SAC_2045 Chiến tranh trường kỳ
+https://vip.opstream14.com/20220509/11206_83fe6222/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thế Lưỡng Nan Của Abraham Lincoln
+https://vip.opstream15.com/20230312/35501_a2477859/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Anh Ta Là Ai
+https://vip.opstream16.com/20230319/33209_6229377a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", NASCAR: Hết Tốc Lực
+https://vip.opstream17.com/share/a50abba8132a77191791390c3eb19fe7\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1344_2cd171dc/index.m3u8\"},{\"name\":\"04\",\"slug\":\"\",\"filename\":\"NASCAR.Full.Speed.S01E04.2024.1080p.NF.WEB-DL.DDP5.1.H264-HHWEB\",\"link_embed\":\"https://vip.opstream17.com/share/674bfc5f6b72706fb769f5e93667bd23\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1343_d1810fbf/index.m3u8\"},{\"name\":\"03\",\"slug\":\"\",\"filename\":\"NASCAR.Full.Speed.S01E03.2024.1080p.NF.WEB-DL.DDP5.1.H264-HHWEB\",\"link_embed\":\"https://vip.opstream17.com/share/5e1b18c4c6a6d31695acbae3fd70ecc6\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1342_85c65e03/index.m3u8\"},{\"name\":\"02\",\"slug\":\"\",\"filename\":\"NASCAR.Full.Speed.S01E02.2024.1080p.NF.WEB-DL.DDP5.1.H264-HHWEB\",\"link_embed\":\"https://vip.opstream17.com/share/33ebd5b07dc7e407752fe773eed20635\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1341_e8164ca8/index.m3u8\"},{\"name\":\"01\",\"slug\":\"\",\"filename\":\"NASCAR.Full.Speed.S01E01.2024.1080p.NF.WEB-DL.DDP5.1.H264-HHWEB\",\"link_embed\":\"https://vip.opstream17.com/share/4f87658ef0de194413056248a00ce009\",\"link_m3u8\":\"https://vip.opstream17.com/20240226/1340_39f9c054/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sau Đám Cưới
+https://s2.phim1280.tv/20231214/mygcCUUS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Môi Giới Hoàng Hôn (Phần 3)
+https://s5.phim1280.tv/20241204/i1st8CNv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Điệp Viên Siêu Hạng
+https://s2.phim1280.tv/20240310/yfgoUHPM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Không Liêu Vu
+https://vip.opstream12.com/20251115/30085_b4bee9fe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gia đình vui vẻ
+https://vip.opstream17.com/20251125/24220_cf5194e6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cậu Bé Craig Và Con Suối Nhỏ (Phần 4)
+https://vip.opstream16.com/20250508/41289_eb0f7ce9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vết Tim
+https://s4.phim1280.tv/20250206/01w5GnKE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tội ác gia đình
+https://s2.phim1280.tv/20231219/B9VafMEN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tội ác cuối cùng
+https://s2.phim1280.tv/20231116/7YhhyP8L/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cocomelon: Bài hát thiếu nhi (Phần 4)
+https://vip.opstream10.com/20220622/21925_7ea32561/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chốn An Toàn
+https://s1.phim1280.tv/20240207/GR5HB89p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bố Trưởng
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240108/lT4K3ewa/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20240108/lT4K3ewa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Guilty Gear Strive: Dual Rulers
+https://s6.kkphimplayer6.com/20250524/Z5TYHZIS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tuần Tra Đêm
+https://s6.kkphimplayer6.com/20260318/0V163C9i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngự Giao Ký (Phần 2): Kháp Tự Cố Nhân Quy
+https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240530/O0OigzIe/index.m3u8\",\"link_m3u8\":\"https://s3.phim1280.tv/20240530/O0OigzIe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mất Tích Bí Ẩn
+https://vip.opstream16.com/20250814/45751_4f4cbddd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Truyện Kinh Dị Mỹ (Phần 4) (Freak Show)
+https://s6.kkphimplayer6.com/20260115/LpDHZBAp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", God's Not Dead 2
+https://vip.opstream14.com/share/7e3b7a5bafcb0fa8e8dfe3ea6aca9186\",\"link_m3u8\":\"https://vip.opstream14.com/20220322/2334_f5c9b8a2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người phiên dịch
+https://s1.phim1280.tv/20231201/Pnm8dV9j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tội Ác Người Mỹ
+https://s2.phim1280.tv/20231203/7u12ybyj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thợ Săn Quỷ
+https://s2.phim1280.tv/20230917/q2fZcUow/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hỗn Thế Ma Vương Phàn Thụy
+https://s5.phim1280.tv/20241015/qOFWTHvO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tội ác của Henry
+https://s2.phim1280.tv/20231130/zBPC44FE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mật Danh Fateh
+https://s4.phim1280.tv/20250315/e8gJjr97/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kỉ Nguyên Trigger (Phần 1)
+https://s3.phim1280.tv/20240502/OA7Edk8g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kí Sự Sát Nhân
+https://vip.opstream17.com/share/b5b0db7f3a77ca4fcf9eca57aa7181ca\",\"link_m3u8\":\"https://vip.opstream17.com/20240329/3517_64ad4a30/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bốn Chị Em Và Một Đám Cưới
+https://s2.phim1280.tv/20240113/UBDbgwNB/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mối Liên Kết Bí Ẩn
+https://s5.phim1280.tv/20240905/2Nh9ousS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Có Chuyện Vui
+https://s2.phim1280.tv/20240120/CiDCEL42/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hội Bạn Trai Của Bunny
+https://s5.phim1280.tv/20250417/XkizGqyK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiên Sinh Mưu Mẹo Xin Chỉ Giáo
+https://vip.opstream16.com/20231208/38830_4e98745a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Điệp Viên Bám Dai
+https://vip.opstream14.com/20220318/1714_17d93c63/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chết Lần Nữa
+https://s2.phim1280.tv/20240310/yWgDW1lP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sau cuộc vây bắt
+https://s2.phim1280.tv/20231112/FSS7RJPc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khi Cô Ấy Yêu
+https://vip.opstream15.com/20220509/12630_61b728e5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Strike (Phần 6)
+https://vip.opstream16.com/20250507/41222_8c6ff9e1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mẹ ơi
+https://vip.opstream14.com/20230615/37738_adbc0da0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Fanfan
+https://vip.opstream12.com/20220322/4731_cda3fff3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 24 Giờ Chống Khủng Bố (Phần 6)
+https://vip.opstream10.com/20220412/7611_8a608724/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giao Nhân Truyện
+https://s6.kkphimplayer6.com/20250926/g66giIl3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bản Danh Sách Của Schindler
+https://vip.opstream14.com/20220725/18966_14793e1f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trả Thù
+https://s3.phim1280.tv/20240617/by4DKKNl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Waiting for "Superman"
+https://vip.opstream14.com/20230307/33508_b5474636/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mộng Hoa Tư
+https://vip.opstream10.com/20260303/32914_3ab42478/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Super/Natural
+https://vip.opstream17.com/share/61e654de938ad0e111edcd4cb276ad02\",\"link_m3u8\":\"https://vip.opstream17.com/20240730/15915_e2084a66/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Good Boy
+https://vip.opstream10.com/20250601/29492_aaa702ad/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xích hổ: Cuộc chiến bắt đầu
+https://vip.opstream90.com/20250928/13282_ad1aee42/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lưu Kim Tuế Nguyệt
+https://vip.opstream14.com/share/5e6d27a7a8a8330df4b53240737ccc85\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3166_a291a60b/index.m3u8\"},{\"name\":\"2\",\"slug\":\"2\",\"filename\":\"luu-kim-tue-nguyet-tap-2\",\"link_embed\":\"https://vip.opstream14.com/share/20c86a628232a67e7bd46f76fba7ce12\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3167_bb27a77a/index.m3u8\"},{\"name\":\"3\",\"slug\":\"3\",\"filename\":\"luu-kim-tue-nguyet-tap-3\",\"link_embed\":\"https://vip.opstream14.com/share/ce393994e8cf430867408678d1a5a9c8\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3168_bb911309/index.m3u8\"},{\"name\":\"4\",\"slug\":\"4\",\"filename\":\"luu-kim-tue-nguyet-tap-4\",\"link_embed\":\"https://vip.opstream14.com/share/7a98af17e63a0ac09ce2e96d03992fbc\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3169_23490c15/index.m3u8\"},{\"name\":\"5\",\"slug\":\"5\",\"filename\":\"luu-kim-tue-nguyet-tap-5\",\"link_embed\":\"https://vip.opstream14.com/share/73e5080f0f3804cb9cf470a8ce895dac\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3170_80db6674/index.m3u8\"},{\"name\":\"6\",\"slug\":\"6\",\"filename\":\"luu-kim-tue-nguyet-tap-6\",\"link_embed\":\"https://vip.opstream14.com/share/976abf49974d4686f87192efa0513ae0\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3171_eab990fe/index.m3u8\"},{\"name\":\"7\",\"slug\":\"7\",\"filename\":\"luu-kim-tue-nguyet-tap-7\",\"link_embed\":\"https://vip.opstream14.com/share/e25cfa90f04351958216f97e3efdabe9\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3172_ca2f9dad/index.m3u8\"},{\"name\":\"8\",\"slug\":\"8\",\"filename\":\"luu-kim-tue-nguyet-tap-8\",\"link_embed\":\"https://vip.opstream14.com/share/e8258e5140317ff36c7f8225a3bf9590\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3173_dab0bef3/index.m3u8\"},{\"name\":\"9\",\"slug\":\"9\",\"filename\":\"luu-kim-tue-nguyet-tap-9\",\"link_embed\":\"https://vip.opstream14.com/share/45c166d697d65080d54501403b433256\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3174_9cad03a8/index.m3u8\"},{\"name\":\"10\",\"slug\":\"10\",\"filename\":\"luu-kim-tue-nguyet-tap-10\",\"link_embed\":\"https://vip.opstream14.com/share/ce47be4abd80ac324c645fd57a27fc73\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3175_3b96f27f/index.m3u8\"},{\"name\":\"11\",\"slug\":\"11\",\"filename\":\"luu-kim-tue-nguyet-tap-11\",\"link_embed\":\"https://vip.opstream14.com/share/59dfa2df42d9e3d41f5b02bfc32229dd\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3176_3d594630/index.m3u8\"},{\"name\":\"12\",\"slug\":\"12\",\"filename\":\"luu-kim-tue-nguyet-tap-12\",\"link_embed\":\"https://vip.opstream14.com/share/d3630410c51e60941a9001a46871070e\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3177_20cbc03a/index.m3u8\"},{\"name\":\"13\",\"slug\":\"13\",\"filename\":\"luu-kim-tue-nguyet-tap-13\",\"link_embed\":\"https://vip.opstream14.com/share/ba95d78a7c942571185308775a97a3a0\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3178_262509f5/index.m3u8\"},{\"name\":\"14\",\"slug\":\"14\",\"filename\":\"luu-kim-tue-nguyet-tap-14\",\"link_embed\":\"https://vip.opstream14.com/share/91378b331327b40e564390c43cd6b2be\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3179_aca3cb4f/index.m3u8\"},{\"name\":\"15\",\"slug\":\"15\",\"filename\":\"luu-kim-tue-nguyet-tap-15\",\"link_embed\":\"https://vip.opstream14.com/share/c20a7ce2a627ba838cfbff082db35197\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3180_6442245b/index.m3u8\"},{\"name\":\"16\",\"slug\":\"16\",\"filename\":\"luu-kim-tue-nguyet-tap-16\",\"link_embed\":\"https://vip.opstream14.com/share/f4aa0dd960521e045ae2f20621fb4ee9\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3181_7412aefd/index.m3u8\"},{\"name\":\"17\",\"slug\":\"17\",\"filename\":\"luu-kim-tue-nguyet-tap-17\",\"link_embed\":\"https://vip.opstream14.com/share/8051a3c40561002834e59d566b7430cf\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3182_b5b6b778/index.m3u8\"},{\"name\":\"18\",\"slug\":\"18\",\"filename\":\"luu-kim-tue-nguyet-tap-18\",\"link_embed\":\"https://vip.opstream14.com/share/3eb414bf1c2a66a09c185d60553417b8\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3184_8ae9176e/index.m3u8\"},{\"name\":\"19\",\"slug\":\"19\",\"filename\":\"luu-kim-tue-nguyet-tap-19\",\"link_embed\":\"https://vip.opstream14.com/share/39ae2ed11b14a4ccb41d35e9d1ba5d11\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3185_0d9944e1/index.m3u8\"},{\"name\":\"20\",\"slug\":\"20\",\"filename\":\"luu-kim-tue-nguyet-tap-20\",\"link_embed\":\"https://vip.opstream14.com/share/3f4366aeb9c157cf9a30c90693eafc55\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3186_7012efdf/index.m3u8\"},{\"name\":\"21\",\"slug\":\"21\",\"filename\":\"luu-kim-tue-nguyet-tap-21\",\"link_embed\":\"https://vip.opstream14.com/share/31c0c178a9fc26ffecffd8670e6d746d\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3187_75317886/index.m3u8\"},{\"name\":\"22\",\"slug\":\"22\",\"filename\":\"luu-kim-tue-nguyet-tap-22\",\"link_embed\":\"https://vip.opstream14.com/share/8832ae39136fb470b3fbbf9f47b4570d\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3189_569f7c70/index.m3u8\"},{\"name\":\"23\",\"slug\":\"23\",\"filename\":\"luu-kim-tue-nguyet-tap-23\",\"link_embed\":\"https://vip.opstream14.com/share/07c4b1fdd1ef8da2d7e9393071204b71\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3190_4ca2c10c/index.m3u8\"},{\"name\":\"24\",\"slug\":\"24\",\"filename\":\"luu-kim-tue-nguyet-tap-24\",\"link_embed\":\"https://vip.opstream14.com/share/f023559c6d59c04e3804209f573dbff9\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3191_f468b6cd/index.m3u8\"},{\"name\":\"25\",\"slug\":\"25\",\"filename\":\"luu-kim-tue-nguyet-tap-25\",\"link_embed\":\"https://vip.opstream14.com/share/766e428d1e232bbdd58664b41346196c\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3192_1884b3e8/index.m3u8\"},{\"name\":\"26\",\"slug\":\"26\",\"filename\":\"luu-kim-tue-nguyet-tap-26\",\"link_embed\":\"https://vip.opstream14.com/share/68a9750337a418a86fe06c1991a1d64c\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3193_1d3b4e74/index.m3u8\"},{\"name\":\"27\",\"slug\":\"27\",\"filename\":\"luu-kim-tue-nguyet-tap-27\",\"link_embed\":\"https://vip.opstream14.com/share/563ca5e068bc78b807910338bb4d4279\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3194_cb2f7a20/index.m3u8\"},{\"name\":\"28\",\"slug\":\"28\",\"filename\":\"luu-kim-tue-nguyet-tap-28\",\"link_embed\":\"https://vip.opstream14.com/share/7f01c939761597f9b832694d4c381512\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3195_6a4432ba/index.m3u8\"},{\"name\":\"29\",\"slug\":\"29\",\"filename\":\"luu-kim-tue-nguyet-tap-29\",\"link_embed\":\"https://vip.opstream14.com/share/6c4bb406b3e7cd5447f7a76fd7008806\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3196_33a47ca7/index.m3u8\"},{\"name\":\"30\",\"slug\":\"30\",\"filename\":\"luu-kim-tue-nguyet-tap-30\",\"link_embed\":\"https://vip.opstream14.com/share/721e7285b298cde5b3d0c973ed8d7b63\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3197_70433865/index.m3u8\"},{\"name\":\"31\",\"slug\":\"31\",\"filename\":\"luu-kim-tue-nguyet-tap-31\",\"link_embed\":\"https://vip.opstream14.com/share/b08354f3688c4e4e8c52c207d7d5b8c3\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3198_01a29168/index.m3u8\"},{\"name\":\"32\",\"slug\":\"32\",\"filename\":\"luu-kim-tue-nguyet-tap-32\",\"link_embed\":\"https://vip.opstream14.com/share/b59307fdacf7b2db12ec4bd5ca1caba8\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3199_21305e06/index.m3u8\"},{\"name\":\"33\",\"slug\":\"33\",\"filename\":\"luu-kim-tue-nguyet-tap-33\",\"link_embed\":\"https://vip.opstream14.com/share/731ae30af8750c2d28720ea3c1f8c2b1\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3200_2a331009/index.m3u8\"},{\"name\":\"34\",\"slug\":\"34\",\"filename\":\"luu-kim-tue-nguyet-tap-34\",\"link_embed\":\"https://vip.opstream14.com/share/24ec8468b67314c2013d215b77034476\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3201_ae2af2ed/index.m3u8\"},{\"name\":\"35\",\"slug\":\"35\",\"filename\":\"luu-kim-tue-nguyet-tap-35\",\"link_embed\":\"https://vip.opstream14.com/share/799de6d3dae4c924142cf245a1d7f703\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3203_62d61838/index.m3u8\"},{\"name\":\"36\",\"slug\":\"36\",\"filename\":\"luu-kim-tue-nguyet-tap-36\",\"link_embed\":\"https://vip.opstream14.com/share/640258597cbc50037072712f964cf5d8\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3204_1e81145c/index.m3u8\"},{\"name\":\"37\",\"slug\":\"37\",\"filename\":\"luu-kim-tue-nguyet-tap-37\",\"link_embed\":\"https://vip.opstream14.com/share/9ef2ed4b7fd2c810847ffa5fa85bce38\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3205_314c6e05/index.m3u8\"},{\"name\":\"38\",\"slug\":\"38\",\"filename\":\"luu-kim-tue-nguyet-tap-38\",\"link_embed\":\"https://vip.opstream14.com/share/211ed78fe91938b90f84a51944b08d5a\",\"link_m3u8\":\"https://vip.opstream14.com/20220326/3206_76ee152a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Điều kỳ diệu ở phòng giam số 7
+https://vip.opstream12.com/share/757b505cfd34c64c85ca5b5690ee5293\",\"link_m3u8\":\"http://vip.opstream12.com/20220217/201_2c3c2933/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bí Mật Triệu Đô
+https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250331/dyxDnXSk/index.m3u8\",\"link_m3u8\":\"https://s5.phim1280.tv/20250331/dyxDnXSk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dhevaprom: Poncheewan
+https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240809/fwuIRxOe/index.m3u8\",\"link_m3u8\":\"https://s3.phim1280.tv/20240809/fwuIRxOe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hôn Lên Mạch Đất
+https://s1.phim1280.tv/20231201/D1NVqIc6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yêu Vợ Tôi Đi
+https://s2.phim1280.tv/20231230/8V7BvySo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Story of Bihyung: Enchanted Master of the Goblin
+https://vip.opstream17.com/20251004/19340_441314de/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người phụ nữ kỳ lạ
+https://vip.opstream10.com/20220311/306_f25841f3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phát Khâu Thiên Quan: Di Tích Côn Lôn
+https://s6.kkphimplayer6.com/20250822/oGUpLWt6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bộ Ba Siêu Bựa
+https://s2.phim1280.tv/20240129/2p3kgwkn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Phiêu Lưu Của Paula Peril
+https://vip.opstream16.com/20220222/25_19833858/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bắc Kim Thang
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231218/PGBcCHQg/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20231218/PGBcCHQg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những căn phòng trống
+https://s6.kkphimplayer6.com/20251201/X305nvTf/3500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Văn phòng không vụ
+https://vip.opstream90.com/20240715/612_f76a89f0/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dog
+https://s2.phim1280.tv/20240218/NeoWIN8o/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hạnh Phúc Khi Được Sống
+https://s2.phim1280.tv/20240217/u4vfNRIg/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", High On The Hog: Ẩm Thực Mỹ Gốc Phi Đã Thay Đổi Hoa Kỳ Như Thế Nào (S2)
+https://vip.opstream16.com/share/79f1792fceebfe579e9c2fe9152be983\",\"link_m3u8\":\"https://vip.opstream16.com/20240106/40292_d69b287e/index.m3u8\"},{\"name\":\"3\",\"slug\":\"\",\"filename\":\"High.on.the.Hog.How.African.American.Cuisine.Transformed.America.S02E03.2021.2160p.NF.WEB-DL.DDP5.1.H.265-HHWEB\",\"link_embed\":\"https://vip.opstream16.com/share/27424f3a283c39027eb12a690d4b6d39\",\"link_m3u8\":\"https://vip.opstream16.com/20240105/40291_8573c494/index.m3u8\"},{\"name\":\"2\",\"slug\":\"\",\"filename\":\"High.on.the.Hog.How.African.American.Cuisine.Transformed.America.S02E02.2021.2160p.NF.WEB-DL.DDP5.1.H.265-HHWEB\",\"link_embed\":\"https://vip.opstream16.com/share/fafcb194af3cdf5ea3355224c6224d6f\",\"link_m3u8\":\"https://vip.opstream16.com/20240105/40290_f2b2d9e6/index.m3u8\"},{\"name\":\"1\",\"slug\":\"\",\"filename\":\"High.on.the.Hog.How.African.American.Cuisine.Transformed.America.S02E01.2021.2160p.NF.WEB-DL.DDP5.1.H.265-HHWEB\",\"link_embed\":\"https://vip.opstream16.com/share/1b8833c58d3a24b62eb45027f94d093e\",\"link_m3u8\":\"https://vip.opstream16.com/20240105/40289_b1392f37/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Câu lạc bộ Cuervos (Phần 1)
+https://vip.opstream15.com/20220615/20846_d3d1966c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mũi Tên Xanh (Phần 3)
+https://s3.phim1280.tv/20240701/saytCwps/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lưỡi Dao Ngọt Ngào: Vòng Xoáy Hôn Ước Chí Mạng
+https://vip.opstream-short.com/20251028/2968_62da8c91/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tấn Giai Đích Vương Phi
+https://s6.kkphimplayer6.com/20250830/LLlK2ihb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sự Thật Và Phản Quốc
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260105/713SGjKM/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20260105/713SGjKM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Băng Cốc Ngày Đen Tối
+https://vip.opstream15.com/share/50a0eaaf3cd93fa86551c7112c259a3a\",\"link_m3u8\":\"https://vip.opstream15.com/20221221/30183_cd78f0b1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Elyas
+https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241208/xEikLCQy/index.m3u8\",\"link_m3u8\":\"https://s4.phim1280.tv/20241208/xEikLCQy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Góc Phố 12 Và Delaware
+https://vip.opstream16.com/20241120/41102_f1e513f0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chiếc Áo Hóm Hỉnh
+https://s2.phim1280.tv/20240129/jYlLXRvD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Y Phi Của Ta Không Dễ Chọc (Phần 3)
+https://vip.opstream16.com/20231115/37571_46188804/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Untamed
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250718/i3WBpq5V/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20250718/i3WBpq5V/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vô Gian Đạo 2
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250920/6XQ3fG4l/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20250920/6XQ3fG4l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bí Danh: Phần 1
+https://vip.opstream10.com/20220412/7545_25185e4d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Liên Minh Công Lý: Trở Về Quá Khứ
+https://s2.phim1280.tv/20240217/ru0Wt2hR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cá đen
+https://s2.phim1280.tv/20231228/xnpAbUCX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", S.W.A.T.: Đội Đặc Nhiệm
+https://s1.phim1280.tv/20231125/NQehufAD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Karppi (Phần 3)
+https://s1.phim1280.tv/20240114/HIROQCOH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhân Viên ĐIều Tra (Phần 1)
+https://vip.opstream11.com/20240830/52123_70fd1553/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bức Tường Bí Ẩn
+https://s6.kkphimplayer6.com/20250712/Tl1ZNfQB/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Alien Convergence
+https://s2.phim1280.tv/20231209/1PoBC1bJ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thình Thịch Anh Yêu Em
+https://s6.kkphimplayer6.com/20250618/Jh9E6q7Z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bí Mật Của Young-joo
+https://vip.opstream10.com/20230202/26251_510671d9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi Nho Nhỏ
+https://s5.phim1280.tv/20250323/8JubK4dP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiếng Bom Hòa Bình
+https://vip.opstream13.com/20251022/13721_15501c57/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yêu Em Sai Thời Điểm
+https://vip.opstream-short.com/20251107/15401_52aee03d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vũ Điệu Đường Phố 4
+https://s2.phim1280.tv/20231031/hoaj8hqU/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Định Phong Ba
+https://s6.kkphimplayer6.com/20250801/iVNNO9Db/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sứ Mệnh Của Thần Tình Yêu
+https://s3.phim1280.tv/20240730/YzJZLLhP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bong Bóng Tình Yêu
+https://vip.opstream12.com/20220324/5168_a03edb36/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Nàng Trầm Lặng
+https://vip.opstream15.com/20221024/27570_5690beaa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giết Người Theo Lịch
+https://vip.opstream15.com/20250228/49955_8d97d20d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The First Time
+https://s2.phim1280.tv/20240125/qDvuUZ2j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Việc Trao Đổi
+https://s2.phim1280.tv/20240119/eaADZLtk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Wallace & Gromit: The Curse of the Were-Rabbit
+https://vip.opstream14.com/20220320/1950_4069c9c9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The One-Armed Swordsman
+https://vip.opstream16.com/share/d145f7efd8e7183b2cbc586ccfb1d0ec\",\"link_m3u8\":\"https://vip.opstream16.com/20231204/38575_c485bc30/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bảy giây
+https://vip.opstream16.com/20220314/2058_8cb65d13/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yoohoo và biệt đội giải cứu (Phần 2)
+https://s5.phim1280.tv/20241113/jMkbJQmV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Island on Bird Street
+https://vip.opstream14.com/20220317/1411_e663664c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thương Mến, Lizzo
+https://vip.opstream16.com/20250528/43340_d120db56/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Naomi Osaka
+https://s4.phim1280.tv/20241010/4OsFdPSV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dự án A
+https://vip.opstream11.com/20220301/684_a14ceb40/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trận Chiến Sông Scheldt
+https://s2.phim1280.tv/20231112/4FG2MpBU/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tinker Bell và Kho Báu Thất Lạc
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231110/ou03MGV3/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20231110/ou03MGV3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cẩm Y Vệ Tái Xuất
+https://vip.opstream14.com/20221217/28570_a58d9b25/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nàng Chạch Wanda
+https://vip.opstream11.com/20240920/53205_c411f53c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ám Dạ Hành Giả
+https://s3.phim1280.tv/20240601/op7HkKzR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Peacemaker
+https://vip.opstream14.com/20220502/10544_40dc5de7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sáu Giờ Để Giết
+https://s2.phim1280.tv/20240214/CILykYH9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vượt Ngục (Phần 1)
+https://s3.phim1280.tv/20240409/ssWR7hFI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xóa Tan Ký Ức
+https://vip.opstream13.com/20240803/5031_4cdc0757/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đẳng Cấp Thú Cưng 2
+https://s6.kkphimplayer6.com/20260105/ChulMqgC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Biệt Đội HIT&RUN (Biệt Đội Tốc Độ)
+https://s6.kkphimplayer6.com/20250724/fdfgognl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mon Laferte, te amo
+https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240804/65mMBxix/index.m3u8\",\"link_m3u8\":\"https://s3.phim1280.tv/20240804/65mMBxix/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giáo Lý
+https://s2.phim1280.tv/20231018/m2dPFfyl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giáo Chủ Minh Giáo
+https://s2.phim1280.tv/20231230/fPRHCLPY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Tsugua Diaries
+https://s2.phim1280.tv/20231217/I93scsya/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trang Trại Vô Lo
+https://s4.phim1280.tv/20240918/9VTGxIH6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ở Bên Em (Tinh Quang)
+https://s6.kkphimplayer6.com/20251219/gJy6MUOM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lợn Chiến
+https://s1.phim1280.tv/20231210/ffdKfLce/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Pokémon The Series: XY
+https://vip.opstream16.com/20220515/13065_f9f9b6a9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thế Giới Khủng Long: Thuyết Hỗn Mang (Phần 3)
+https://s4.phim1280.tv/20250404/wPve4hGp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thám Tử Lừng Danh Conan 1: Quả Bom Chọc Trời
+https://s3.phim1280.tv/20240819/RtIkmfGx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Kim Lăng Thập Tam Thoa
+https://s2.phim1280.tv/20231214/0dkyp6Uh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Diệp Vấn Tông Sư Thức Tỉnh
+https://s2.phim1280.tv/20231214/sJRooC0F/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Reacher (Phần 1)
+https://vip.opstream11.com/20231207/49794_f6140954/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vùng Đất Quỷ Dữ 4: Kiếp Sau
+https://vip.opstream15.com/20220405/2706_9c4c313f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trùm Hương Cảng 2: Long Tranh Hổ Đấu
+https://s2.phim1280.tv/20240305/2rwSeF71/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phong Thần Ngoại Truyện: Lôi Chấn Tử
+https://s2.phim1280.tv/20231212/0JtxOUUZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mộc Phủ Phong Vân
+https://vip.opstream11.com/20241031/56058_5b359e02/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Your Turn to Kill: The Movie
+https://vip.opstream14.com/share/02e253a6d618f5bb63be3a33904bc3e2\",\"link_m3u8\":\"https://vip.opstream14.com/20220928/22111_0a98be6b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dragon Ball Super: Super Hero
+https://vip.opstream14.com/share/9e020ebb181dfd3fb1229c6ceb076a60\",\"link_m3u8\":\"https://vip.opstream14.com/20221216/28490_6127c8ea/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Butter
+https://s2.phim1280.tv/20240305/418YZndt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tiểu Hoan Hỉ
+https://s2.phim1280.tv/20240130/0QhoBHZW/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Vô Danh Tính
+https://s4.phim1280.tv/20250313/alPd4Sdk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tâm lý thua cuộc
+https://vip.opstream10.com/20220712/24326_a8058922/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đêm Trắng: Mất Ngủ
+https://s1.phim1280.tv/20240112/dLZ449lg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Một Anh Hùng
+https://s6.kkphimplayer6.com/20250623/Ca5u91ov/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phi Vụ Triệu Đô (Phần 1)
+https://s6.kkphimplayer6.com/20250827/1yXOKj5E/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trại Nữ Tù
+https://vip.opstream12.com/20220625/22165_56a22984/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", X-Men: Apocalypse
+https://vip.opstream14.com/20220318/1634_1d9799ec/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tấn công và rút lui
+https://vip.opstream12.com/20251021/29042_9b294620/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vùng Đất Quỷ Dữ: Hồi Cuối
+https://s6.kkphimplayer6.com/20250716/EFe5T6Fu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trái Tim Sắt Lạnh
+https://s2.phim1280.tv/20231208/ARjUVmk7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phó Tổng Thống (Phần 7)
+https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240809/K9rMK352/index.m3u8\",\"link_m3u8\":\"https://s3.phim1280.tv/20240809/K9rMK352/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tinker Bell - Cô Tiên Giúp Ích
+https://s2.phim1280.tv/20240301/bXVCSoqq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thiên Tài Bị Lãng Quên
+https://vip.opstream14.com/20220423/9491_55b76f95/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Anh Hùng Triều Minh
+https://vip.opstream16.com/20250820/46343_e297f099/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trở Về Đường Sơn
+https://vip.opstream16.com/20250805/44160_501f06da/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nữ Luật Sư Lidia Poët (Phần 2)
+https://s4.phim1280.tv/20241101/3Qw0xgxk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Gái Hàng Xóm
+https://s2.phim1280.tv/20240110/xe63IICE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Năm Cuộc Hẹn Hò
+https://vip.opstream11.com/20240216/51589_88430cd8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đặc Ân Của Thần Mùa 2
+https://vip.opstream11.com/20230108/41195_fe17d724/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thế Hệ Vàng 92
+https://s2.phim1280.tv/20231130/QRviI12P/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi muốn chấm dứt trò chơi tình yêu này
+https://vip.opstream90.com/20260415/29528_cfc948fc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phim Kinh Dị 3
+https://vip.opstream12.com/20220318/4192_9995297f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đồi Hú Gió
+https://s2.phim1280.tv/20231206/624NuSG8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Này! Đại Sự Của Cậu Thật Kỳ Diệu
+https://vip.opstream15.com/share/be3159ad04564bfb90db9e32851ebf9c\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/662_83ca7a5f/index.m3u8\"},{\"name\":\"2\",\"slug\":\"2\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-2\",\"link_embed\":\"https://vip.opstream15.com/share/8757150decbd89b0f5442ca3db4d0e0e\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/663_cb687e7a/index.m3u8\"},{\"name\":\"3\",\"slug\":\"3\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-3\",\"link_embed\":\"https://vip.opstream15.com/share/2291d2ec3b3048d1a6f86c2c4591b7e0\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/664_f8c9d04d/index.m3u8\"},{\"name\":\"4\",\"slug\":\"4\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-4\",\"link_embed\":\"https://vip.opstream15.com/share/84117275be999ff55a987b9381e01f96\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/665_76079f94/index.m3u8\"},{\"name\":\"5\",\"slug\":\"5\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-5\",\"link_embed\":\"https://vip.opstream15.com/share/fae0b27c451c728867a567e8c1bb4e53\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/666_9f7c285d/index.m3u8\"},{\"name\":\"6\",\"slug\":\"6\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-6\",\"link_embed\":\"https://vip.opstream15.com/share/b5dc4e5d9b495d0196f61d45b26ef33e\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/667_507f4a61/index.m3u8\"},{\"name\":\"7\",\"slug\":\"7\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-7\",\"link_embed\":\"https://vip.opstream15.com/share/192fc044e74dffea144f9ac5dc9f3395\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/668_eb722b97/index.m3u8\"},{\"name\":\"8\",\"slug\":\"8\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-8\",\"link_embed\":\"https://vip.opstream15.com/share/5c04925674920eb58467fb52ce4ef728\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/669_55089914/index.m3u8\"},{\"name\":\"9\",\"slug\":\"9\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-9\",\"link_embed\":\"https://vip.opstream15.com/share/17c276c8e723eb46aef576537e9d56d0\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/670_77e49cfa/index.m3u8\"},{\"name\":\"10\",\"slug\":\"10\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-10\",\"link_embed\":\"https://vip.opstream15.com/share/5dd9db5e033da9c6fb5ba83c7a7ebea9\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/671_502cacdf/index.m3u8\"},{\"name\":\"11\",\"slug\":\"11\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-11\",\"link_embed\":\"https://vip.opstream15.com/share/2dea61eed4bceec564a00115c4d21334\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/672_88e277eb/index.m3u8\"},{\"name\":\"12\",\"slug\":\"12\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-12\",\"link_embed\":\"https://vip.opstream15.com/share/9f396fe44e7c05c16873b05ec425cbad\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/673_ddada9e7/index.m3u8\"},{\"name\":\"13\",\"slug\":\"13\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-13\",\"link_embed\":\"https://vip.opstream15.com/share/0d7de1aca9299fe63f3e0041f02638a3\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/674_15a28086/index.m3u8\"},{\"name\":\"14\",\"slug\":\"14\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-14\",\"link_embed\":\"https://vip.opstream15.com/share/8fecb20817b3847419bb3de39a609afe\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/675_472d1fcf/index.m3u8\"},{\"name\":\"15\",\"slug\":\"15\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-15\",\"link_embed\":\"https://vip.opstream15.com/share/dc6a70712a252123c40d2adba6a11d84\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/676_d32d452d/index.m3u8\"},{\"name\":\"16\",\"slug\":\"16\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-16\",\"link_embed\":\"https://vip.opstream15.com/share/71a3cb155f8dc89bf3d0365288219936\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/677_b3af7df5/index.m3u8\"},{\"name\":\"17\",\"slug\":\"17\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-17\",\"link_embed\":\"https://vip.opstream15.com/share/9fe8593a8a330607d76796b35c64c600\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/678_e8b9220e/index.m3u8\"},{\"name\":\"18\",\"slug\":\"18\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-18\",\"link_embed\":\"https://vip.opstream15.com/share/ca9c267dad0305d1a6308d2a0cf1c39c\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/679_71081c7f/index.m3u8\"},{\"name\":\"19\",\"slug\":\"19\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-19\",\"link_embed\":\"https://vip.opstream15.com/share/fccb3cdc9acc14a6e70a12f74560c026\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/680_b68fdb69/index.m3u8\"},{\"name\":\"20\",\"slug\":\"20\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-20\",\"link_embed\":\"https://vip.opstream15.com/share/1595af6435015c77a7149e92a551338e\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/681_e002c2fc/index.m3u8\"},{\"name\":\"21\",\"slug\":\"21\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-21\",\"link_embed\":\"https://vip.opstream15.com/share/08d98638c6fcd194a4b1e6992063e944\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/682_96e803ca/index.m3u8\"},{\"name\":\"22\",\"slug\":\"22\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-22\",\"link_embed\":\"https://vip.opstream15.com/share/24681928425f5a9133504de568f5f6df\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/683_91f4e110/index.m3u8\"},{\"name\":\"23\",\"slug\":\"23\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-23\",\"link_embed\":\"https://vip.opstream15.com/share/556f391937dfd4398cbac35e050a2177\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/684_da4f21ef/index.m3u8\"},{\"name\":\"24\",\"slug\":\"24\",\"filename\":\"nay-dai-su-cua-cau-that-ky-dieu-2021-tap-24\",\"link_embed\":\"https://vip.opstream15.com/share/3328bdf9a4b9504b9398284244fe97c2\",\"link_m3u8\":\"https://vip.opstream15.com/20220305/685_dcc9bf27/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bóng của cha tôi
+https://vip.opstream90.com/20260414/29437_a20bed5c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khói Lửa Nhân Gian Của Tôi
+https://s3.phim1280.tv/20240814/n5HmCWyp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tuổi Trẻ Lông Bông
+https://s2.phim1280.tv/20231217/94NS8BcP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hội Mẹ Độc Thân
+https://vip.opstream17.com/20240521/8373_b5fd6822/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thám Tử Lừng Danh Conan 5: Những Giây Cuối Cùng Tới Thiên Đường
+https://s3.phim1280.tv/20240819/2x36jxlh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đau Đớn Và Vinh Quang
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231201/q796k2Yh/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20231201/q796k2Yh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", In Your Eyes
+https://vip.opstream11.com/20220315/2035_065e41c4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Pháp Sư Côn Đồ
+https://s2.phim1280.tv/20240125/yqVpilOC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyện Tình Đấm Bốc
+https://vip.opstream13.com/share/ca8155f4d27f205953f9d3d7974bdd70\",\"link_m3u8\":\"https://vip.opstream13.com/20230825/866_567d5bc0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đặc vụ mê thành
+https://vip.opstream16.com/share/eba0dc302bcd9a273f8bbb72be3a687b\",\"link_m3u8\":\"https://vip.opstream16.com/20220304/484_8fcbc9f1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Max
+https://vip.opstream14.com/20230507/36141_4fee4b41/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tình Yêu Và Trói Buộc
+https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250303/vDTia8n5/index.m3u8\",\"link_m3u8\":\"https://s4.phim1280.tv/20250303/vDTia8n5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hành Trình Django
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251230/aL20RWuM/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20251230/aL20RWuM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đế Sư Vô Địch
+https://vip.opstream-short.com/share/7224d4068a5dd6666b8e62fbe047451e\",\"link_m3u8\":\"https://vip.opstream-short.com/20251206/56266_7224d406/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xin Hãy Yêu Chàng Y Tá
+https://vip.opstream14.com/share/138c47661e9396a89b5af1c48c06effc\",\"link_m3u8\":\"https://vip.opstream14.com/20220620/14976_03b81a9f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thế Giới Người Máy
+https://vip.opstream12.com/20220605/17454_75efa00c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hình Hài Yêu Dấu
+https://vip.opstream12.com/20220425/12609_75357b65/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Vợ Bắt Buộc
+https://vip.opstream11.com/20220422/18473_3944ec77/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sword Of The Stranger
+https://s2.phim1280.tv/20240125/zsIni5wg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Un été à La Goulette
+https://vip.opstream17.com/20240603/9960_d020d767/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hồng Thổ Địa
+https://s6.kkphimplayer6.com/20250831/Lb39ZzQh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nghĩa Trang (Phần 1)
+https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250201/SMroeNAE/index.m3u8\",\"link_m3u8\":\"https://s4.phim1280.tv/20250201/SMroeNAE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhân Viên Cứu Hộ 2
+https://s2.phim1280.tv/20231126/5jf5JTaY/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mowgli: Huyền thoại rừng xanh
+https://vip.opstream11.com/20221125/37775_8f7b8969/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Killing Them Softly
+https://vip.opstream16.com/share/2e19155dc6fe707f02d4d3dc88508930\",\"link_m3u8\":\"https://vip.opstream16.com/20240115/40764_8edc8f09/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thế Giới Khủng Long: Trại Kỷ Phấn Trắng (Phần 5)
+https://s3.phim1280.tv/20240417/lA6zuFsQ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đưa Ông Xã Quốc Dân Về Nhà (Phần 1)
+https://vip.opstream14.com/20220626/15810_02450671/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mùa Thu Và Báo Đốm Đen
+https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241208/jF5a1Xk7/index.m3u8\",\"link_m3u8\":\"https://s4.phim1280.tv/20241208/jF5a1Xk7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Danganronpa 3: Chương tuyệt vọng
+https://vip.opstream14.com/20220427/10060_99f354e4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bão Táp Sa Mạc
+https://s2.phim1280.tv/20231118/2I5CthPo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Như một câu chuyện cười
+https://s2.phim1280.tv/20240218/jeABnnfp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khu Điều Dưỡng Người Thất Tình
+https://vip.opstream15.com/20230330/37166_d4c68e91/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoa Khôi Học Đường Chi Quân Lâm Thiên Hạ
+https://vip.opstream10.com/share/ac2ef27277eab81da1d8dea067dd80c1\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14589_dcceac93/index.m3u8\"},{\"name\":\"2\",\"slug\":\"2\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-2\",\"link_embed\":\"https://vip.opstream10.com/share/f775ec264c01adf8189da19ec86676fe\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14594_af51a3d5/index.m3u8\"},{\"name\":\"3\",\"slug\":\"3\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-3\",\"link_embed\":\"https://vip.opstream10.com/share/11add9933745e1c3ee82d10f03d853b5\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14598_4826526e/index.m3u8\"},{\"name\":\"4\",\"slug\":\"4\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-4\",\"link_embed\":\"https://vip.opstream10.com/share/2548e0a7d08ca169af9729e03206e6a1\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14602_a3d63fed/index.m3u8\"},{\"name\":\"5\",\"slug\":\"5\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-5\",\"link_embed\":\"https://vip.opstream10.com/share/ac9768a5017d092a06f8b8b1fc28c20c\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14610_96e8506b/index.m3u8\"},{\"name\":\"6\",\"slug\":\"6\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-6\",\"link_embed\":\"https://vip.opstream10.com/share/ba2c75b065956ebeb0579a0b66453258\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14611_ce99a389/index.m3u8\"},{\"name\":\"7\",\"slug\":\"7\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-7\",\"link_embed\":\"https://vip.opstream10.com/share/5c3165e90eb8727c7dd0f9434cbd2bba\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14615_8f8ba21d/index.m3u8\"},{\"name\":\"8\",\"slug\":\"8\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-8\",\"link_embed\":\"https://vip.opstream10.com/share/e626afbcdb83368b3491c0c473da19f1\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14620_4f725441/index.m3u8\"},{\"name\":\"9\",\"slug\":\"9\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-9\",\"link_embed\":\"https://vip.opstream10.com/share/f7ff233e4ed3e6b13c5d5c7a9201e4ec\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14621_4475c3a2/index.m3u8\"},{\"name\":\"10\",\"slug\":\"10\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-10\",\"link_embed\":\"https://vip.opstream10.com/share/7247d70004dfb4ffb60a39768e381097\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14627_8f03a29a/index.m3u8\"},{\"name\":\"11\",\"slug\":\"11\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-11\",\"link_embed\":\"https://vip.opstream10.com/share/f0b875eb6cff6fd5f491e6b6521c7510\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14630_67bb8979/index.m3u8\"},{\"name\":\"12\",\"slug\":\"12\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-12\",\"link_embed\":\"https://vip.opstream10.com/share/67b3d697f52f61a5aae9588726d18edc\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14631_d5635801/index.m3u8\"},{\"name\":\"13\",\"slug\":\"13\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-13\",\"link_embed\":\"https://vip.opstream10.com/share/54af6860114f54728b5c2fd9b5cfeca9\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14634_8a2bbd26/index.m3u8\"},{\"name\":\"14\",\"slug\":\"14\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-14\",\"link_embed\":\"https://vip.opstream10.com/share/e2299ee16dcb4ea787ba9f9e8396a26e\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14635_7db995ed/index.m3u8\"},{\"name\":\"15\",\"slug\":\"15\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-15\",\"link_embed\":\"https://vip.opstream10.com/share/dd4143061640d55fb312dd0ce8afa76e\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14639_d146ead0/index.m3u8\"},{\"name\":\"16\",\"slug\":\"16\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-16\",\"link_embed\":\"https://vip.opstream10.com/share/62ad044325613ca7658d8feded658584\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14643_8dd9e10e/index.m3u8\"},{\"name\":\"17\",\"slug\":\"17\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-17\",\"link_embed\":\"https://vip.opstream10.com/share/e35284b6966864480f02bc12997b8b49\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14647_f80f4482/index.m3u8\"},{\"name\":\"18\",\"slug\":\"18\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-18\",\"link_embed\":\"https://vip.opstream10.com/share/4f868165832607a918f0a7670496d1ab\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14648_0ed8ffda/index.m3u8\"},{\"name\":\"19\",\"slug\":\"19\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-19\",\"link_embed\":\"https://vip.opstream10.com/share/301af7614f87909bb1649e27087db4af\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14653_09cad109/index.m3u8\"},{\"name\":\"20\",\"slug\":\"20\",\"filename\":\"hoa-khoi-hoc-duong-chi-quan-lam-thien-ha-thuyet-minh-campus-beauty-2-thuyet-minh-tap-20\",\"link_embed\":\"https://vip.opstream10.com/share/e0ef383bd743acb4ef8081b4657d1813\",\"link_m3u8\":\"https://vip.opstream10.com/20220517/14656_935e53ab/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khôn Ngoan Và Ngu Ngốc
+https://s4.phim1280.tv/20241220/ZMU4fWnc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dạ Điểu
+https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241020/GfoUSV5P/index.m3u8\",\"link_m3u8\":\"https://s5.phim1280.tv/20241020/GfoUSV5P/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Những Ngày Tháng Cuối
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240110/Q1ygHjEC/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20240110/Q1ygHjEC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Còn Lâu Mới Thèm Yêu Đương
+https://s3.phim1280.tv/20240423/mMnAmdEF/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bàn Cầu Cơ
+https://vip.opstream11.com/20221103/37002_f9dd5584/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đế Chế Cá Mập
+https://s2.phim1280.tv/20231120/fow34Pa4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mối Tình Đầu Nhiều Năm Như Thế
+https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20240905/DldVX4it/index.m3u8\",\"link_m3u8\":\"https://s5.phim1280.tv/20240905/DldVX4it/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tòa Án Quan Hệ Cha Con Của Lauren Lake (Phần 7)
+https://s4.phim1280.tv/20241225/Eh3q3Zgc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Năm Mươi Sắc Tối
+https://s1.phim1280.tv/20231114/0sLKsffW/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người đàn ông đeo hoa: Nước mắt anh hùng
+https://vip.opstream10.com/share/a01a0380ca3c61428c26a231f0e49a09\",\"link_m3u8\":\"https://vip.opstream10.com/20220311/390_0c3e9557/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Anh Em Nhà Tagusari
+https://vip.opstream90.com/20260419/29799_59970867/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Prince
+https://vip.opstream14.com/20230401/34435_a6cc6851/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mùa Lửa Kinh Hoàng
+https://vip.opstream90.com/20240718/975_92977ae4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Memories of Matsuko
+https://s2.phim1280.tv/20231203/N0ecHdJ4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xin lỗi, anh yêu em
+https://vip.opstream11.com/20230531/44055_748ec91c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Till Death
+https://vip.opstream11.com/20220314/1943_889fc960/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bốc Lửa
+https://s2.phim1280.tv/20240105/hFNOgckA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mượn Rượu Đẩy Kèo
+https://s6.kkphimplayer6.com/20251015/s1DRfLOD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Guardians of Time
+https://vip.opstream16.com/20221020/24179_f4721745/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Tôi Có Con Yêu Quái Nữ
+https://vip.opstream-short.com/20251117/32126_1f064314/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đối Tác Ăn Ý 4
+https://s1.phim1280.tv/20230930/AoRb4vrW/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khách sạn cấp tốc (Phần 1)
+https://vip.opstream15.com/20220630/24047_3c9479da/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thật Giả Mỹ Hầu Vương: Đại Thánh Vô Song
+https://s6.kkphimplayer6.com/20250910/SkxlNqxH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chân Nhỏ, Bạn Ở Đâu?
+https://s2.phim1280.tv/20231212/TkgVfIaB/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Death On The Nile
+https://s2.phim1280.tv/20240308/1a4JEU3Z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Suitable Flesh
+https://vip.opstream16.com/20231112/37271_58342471/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thanh Gươm Diệt Quỷ: phần Thâm nhập Kỹ viện trấn
+https://vip.opstream11.com/20230402/43175_b2372777/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gái Giang Hồ
+https://s2.phim1280.tv/20231226/q4SPOpDz/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Barbie Đen
+https://s3.phim1280.tv/20240624/yu0AgqLH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ma Đạo Tổ Sư Chibi
+https://s6.kkphimplayer6.com/20250903/Im0Y4yjy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thả Thí Thiên Hạ
+https://s3.phim1280.tv/20240814/l3rZRpAx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thiên Tài Bất Hảo
+https://vip.opstream10.com/share/34be90676412d14c80f85809d8e3b97b\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19726_ca41d0ee/index.m3u8\"},{\"name\":\"2\",\"slug\":\"2\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-2\",\"link_embed\":\"https://vip.opstream10.com/share/2b8bbacaad065fb89e675fb0255c8d8e\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19729_f6eb17ee/index.m3u8\"},{\"name\":\"3\",\"slug\":\"3\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-3\",\"link_embed\":\"https://vip.opstream10.com/share/10527289da58f369ef0d6ae2bb73e646\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19730_52dd04f7/index.m3u8\"},{\"name\":\"4\",\"slug\":\"4\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-4\",\"link_embed\":\"https://vip.opstream10.com/share/d5a92a68f9af953b26eafb935a054ce7\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19731_f76f6b27/index.m3u8\"},{\"name\":\"5\",\"slug\":\"5\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-5\",\"link_embed\":\"https://vip.opstream10.com/share/251be5d69cc38dd1d2a72a8b1c324b6a\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19732_d5792d9c/index.m3u8\"},{\"name\":\"6\",\"slug\":\"6\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-6\",\"link_embed\":\"https://vip.opstream10.com/share/0b9bae10752fcdd26cabd7fab013c7e6\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19733_c98f496a/index.m3u8\"},{\"name\":\"7\",\"slug\":\"7\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-7\",\"link_embed\":\"https://vip.opstream10.com/share/07a97691a99801434b7f82702b14cbc6\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19734_1e6be8e9/index.m3u8\"},{\"name\":\"8\",\"slug\":\"8\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-8\",\"link_embed\":\"https://vip.opstream10.com/share/c38cf856aaa37c92ed68f0fa57265730\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19735_7f2e3fbb/index.m3u8\"},{\"name\":\"9\",\"slug\":\"9\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-9\",\"link_embed\":\"https://vip.opstream10.com/share/5e5b2d99a9a070119580c5bf49e90bb4\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19736_2855ea16/index.m3u8\"},{\"name\":\"10\",\"slug\":\"10\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-10\",\"link_embed\":\"https://vip.opstream10.com/share/f1eba978f8a36c92875063b46fd7e3a1\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19737_de47c1cf/index.m3u8\"},{\"name\":\"11\",\"slug\":\"11\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-11\",\"link_embed\":\"https://vip.opstream10.com/share/a1231cf8c00e5608fc395813fe56afc3\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19738_652f19f7/index.m3u8\"},{\"name\":\"12\",\"slug\":\"12\",\"filename\":\"thien-tai-bat-hao-thuyet-minh-bad-genius-the-series-tap-12\",\"link_embed\":\"https://vip.opstream10.com/share/efbff9ca2fa30ffe3d58261df8aa3a82\",\"link_m3u8\":\"https://vip.opstream10.com/20220609/19739_4e8a97d5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hào Quang Nghiệt Ngã (Phần 2)
+https://vip.opstream15.com/20221204/29297_72cbb5dd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Silverado
+https://s2.phim1280.tv/20240229/30S0T2Lk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ly Nhân Tâm Thượng
+https://vip.opstream12.com/20220419/11377_163741a5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Của Cải (Phần 1)
+https://s6.kkphimplayer6.com/20251016/fprZqWwY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Điệp Viên Không Hoàn Hảo
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260109/MHuitNW5/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20260109/MHuitNW5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Phong Thần: Truyền Thuyết Nhân Ngư
+https://vip.opstream10.com/20220401/3998_a55964fa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thông Linh Phi (Phần 1) (Bản Anime)
+https://s6.kkphimplayer6.com/20251001/rOsIkdiq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Priscilla
+https://s4.phim1280.tv/20250308/HcKJ9mJ6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mickey&#039;s Twice Upon a Christmas
+https://s2.phim1280.tv/20231209/9iP9N5yM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chiếc Đũa Quyền Năng: Linh Hồn Samurai
+https://s1.phim1280.tv/20231201/hR7XN56I/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngày Của Chúa
+https://s2.phim1280.tv/20231112/UW9sr5yi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tôi Đã Đổi Người Yêu Với Bạn Của Mình
+https://vip.opstream10.com/20221012/25233_63bfbf2c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyện Tình Mùa Đông
+https://s2.phim1280.tv/20230919/9iBLX9Ru/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mã 3
+https://s6.kkphimplayer6.com/20250927/auqqj8Ir/3500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Asterix & Obelix: God Save Britannia
+https://vip.opstream14.com/20230316/33745_099f7711/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sống Cùng Hai Người Vợ
+https://vip.opstream10.com/20230202/26244_6aa8e9ce/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thái Hậu Có Hỉ
+https://vip.opstream90.com/20251020/15435_391f63b4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chàng Mù Trả Thù
+https://s1.phim1280.tv/20231204/m8qMM6av/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Sói Tuổi Teen (Phần 5)
+https://s6.kkphimplayer6.com/20251214/4Hk7OjuZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lần Theo Vết Khói
+https://s6.kkphimplayer6.com/20250627/RL7cbNjT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yêu Y Quán
+https://vip.opstream11.com/20220224/313_29af062b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Rise of the Conqueror
+https://vip.opstream12.com/20260509/32685_d5a1930d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Alma và Con Sói
+https://s6.kkphimplayer6.com/20250623/68kcJxaE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ace Venture: Tiếng Gọi Hoang Dã
+https://s1.phim1280.tv/20231212/FkPD2A7x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mặc Định
+https://s5.phim1280.tv/20241015/omEpu7y8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Oprah + Viola: Sự kiện đặc biệt của Netflix
+https://s2.phim1280.tv/20231216/RU0LITyI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sát Thủ John Wick: Phần 2
+https://s2.phim1280.tv/20231112/DjLyaBpR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mission of the Warriors
+https://vip.opstream17.com/20240613/11631_605d547e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Rồng Ngực Khủng
+https://vip.opstream14.com/20230511/36368_3054baf4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", One Cent Thief
+https://vip.opstream15.com/20241219/45539_9ea89671/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mẹ kế dâm đãng
+https://vip.opstream15.com/20220430/10337_e09633d1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bầy Rùa Vô Tận
+https://s5.phim1280.tv/20241106/yodRNe0P/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thần Quyền Vô Địch
+https://s6.kkphimplayer6.com/20251023/gJqa1dN2/3500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mùa Hè Kinh Hãi
+https://vip.opstream90.com/20250828/11344_2e87d147/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nữ Quan Đại Nhân Xin Chỉ Giáo Nhiều Hơn
+https://s4.phim1280.tv/20241021/JK4iYKt5/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hai Tuần
+https://vip.opstream11.com/20220426/20234_dd22b548/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bước ngoặt: Chiến tranh tại Việt Nam
+https://vip.opstream17.com/20250502/18196_86d73f9a/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cô Bé Amélie Và Tính Cách Của Mưa
+https://s6.kkphimplayer6.com/20260312/LeDg5yRD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 101 Chú Chó Đốm
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20230913/ZyiCha3i/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20230913/ZyiCha3i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Taras Bulba
+https://s2.phim1280.tv/20240303/f0VuYVK3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Em Bé Ma
+https://vip.opstream-short.com/20251111/18583_e4563f7b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bạn Trai Đích Thực Của Tôi
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240103/De4Mv80y/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20240103/De4Mv80y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hãy mua nhà của tôi
+https://s1.phim1280.tv/20231224/z5lLFg96/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Đáng Kiếp: Đội Cổ Vũ Nổi Loạn
+https://s3.phim1280.tv/20240413/5QMg5Rsq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vinh Quang Và Mơ Ước
+https://vip.opstream13.com/20251026/14171_4346ad94/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", The Drop
+https://s2.phim1280.tv/20240108/INdiszrJ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Truyền Thuyết Về La Llorona
+https://s2.phim1280.tv/20231122/m03FljDK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nơi Trú Ẩn
+https://s2.phim1280.tv/20240207/r5znq1mw/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", di-thu-ma-do
+https://vip.opstream15.com/20220622/22662_1a536f59/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khu dân cư The Kitchen
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240301/G5CJwjG3/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20240301/G5CJwjG3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Khai Sáng (Phần 1)
+https://vip.opstream90.com/20240919/3230_c12706a7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bờ biển Chesapeake (Phần 5)
+https://s5.phim1280.tv/20250114/v1BzpL6z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Băng Hỏa Phượng
+https://s1.phim1280.tv/20231109/yc2ibChX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mất Tích (Phần 3)
+https://s6.kkphimplayer6.com/20260131/ZOseRVDc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoàng Hậu Lưu Hắc Bàn
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250602/F8gH1RIH/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20250602/F8gH1RIH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ông Chủ Trường Đua
+https://vip.opstream17.com/share/c13aa14c57d4ad455bc0694eb98ea14b\",\"link_m3u8\":\"https://vip.opstream17.com/20251125/24098_c13aa14c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vùng Đất Bị Ruồng Bỏ
+https://vip.opstream90.com/20240710/473_2050e03c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sâu Đất Khổng Lồ: Đảo Shrieker
+https://vip.opstream17.com/share/7c05147f3029c97ce26c0cb0b2469fca\",\"link_m3u8\":\"https://vip.opstream17.com/20240504/6728_eaa8058f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cảm Giác Mạnh
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231206/nAbhOsCa/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20231206/nAbhOsCa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chuyến Đi Một Chiều
+https://s6.kkphimplayer6.com/20251002/FhAdMbup/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vũ Khí Nhà Văn
+https://vip.opstream11.com/20220415/15479_b2b7c122/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trận Đấu Cuối Cùng
+https://s1.phim1280.tv/20231024/lPhvtXrZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Aziz Ansari: Diễn Viên Hài Hộp Đêm
+https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20240906/6JQL6pFk/index.m3u8\",\"link_m3u8\":\"https://s5.phim1280.tv/20240906/6JQL6pFk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cut Off
+https://vip.opstream12.com/20250404/26861_542a6597/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chú Ngựa Spirit Tự Do Rong Ruổi Câu Chuyện Về Chú Ngựa Spirit (Phần 1)
+https://s1.phim1280.tv/20240212/MmsYIwD4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cuộc Tuyển Chọn Cuối Cùng
+https://s6.kkphimplayer6.com/20250815/YpWWywky/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Mánh Khóe Tình Yêu
+https://s3.phim1280.tv/20240831/xluhySx7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vô Địch Vận Hạnh Tinh
+https://s5.phim1280.tv/20241009/ApuAmSjd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yêu Không Kiểm Soát
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240221/eY3fWnmk/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20240221/eY3fWnmk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nhà Ái Quốc
+https://s1.phim1280.tv/20231017/SaH2bDlm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Doraemon: Nobita và Chuyến Thám Hiểm Nam Cực Kachi Kochi
+https://s4.phim1280.tv/20250521/Cw4oVCrf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Hoa Khôi Áo Trắng Và Chân Dài 2 Ngoại Truyện
+https://vip.opstream12.com/20220411/9531_4571019a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Cầu hôn lo lắng
+https://vip.opstream13.com/20251118/17887_af416129/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Bạn gái tôi 20 tuổi
+https://vip.opstream12.com/share/0459f8ebb506c02718d4b29b11f586a0\",\"link_m3u8\":\"https://vip.opstream12.com/20220405/7758_99d2bd56/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lôi Vân Phong Vũ
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251129/llouroHd/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20251129/llouroHd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dominique
+https://vip.opstream15.com/20241207/44661_87984ef9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Yêu. Cưới. Lặp lại.
+https://s2.phim1280.tv/20240112/fVdLtMc5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Người Hobbit: Đại Chiến Năm Cánh Quân
+https://s6.kkphimplayer6.com/20250601/yeriQKb4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Câu Chuyện Trong Hạnh Phúc
+https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241108/RMhpNudU/index.m3u8\",\"link_m3u8\":\"https://s5.phim1280.tv/20241108/RMhpNudU/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Breslin Và Hamill: Những Nghệ Sĩ Chạy Theo Thời Hạn
+https://vip.opstream16.com/20250520/43222_ad8a85de/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trò Chơi Sinh Tử: Húng Nhại - Phần 2
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20230912/vNQfxt10/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20230912/vNQfxt10/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thôi Miên Để Thịt Em Gái Xinh Đẹp
+https://vip.opstream15.com/share/9a8d909d7652448b2dc301613a123aab\",\"link_m3u8\":\"https://vip.opstream15.com/20220815/26508_748b20f8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Lật Ngược 21 Gam
+https://s6.kkphimplayer6.com/20250811/XPbKw38T/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tù Nhân Của Vùng Đất Ma Quái
+https://s1.phim1280.tv/20231212/DJHqCaIK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Thầy Tôi Là Chồng Tôi
+https://vip.opstream12.com/share/fb09f481d40c4d3c0861a46bd2dc52c0\",\"link_m3u8\":\"https://vip.opstream12.com/20220323/4874_72ac6d58/index.m3u8\"},{\"name\":\"02\",\"slug\":\"02\",\"filename\":\"My-Lecturer-My-Husband-tap-02\",\"link_embed\":\"https://vip.opstream12.com/share/cf040fc71060367913e81ac1eb050aea\",\"link_m3u8\":\"https://vip.opstream12.com/20220323/4875_7fa70e67/index.m3u8\"},{\"name\":\"03\",\"slug\":\"03\",\"filename\":\"My-Lecturer-My-Husband-tap-03\",\"link_embed\":\"https://vip.opstream12.com/share/77bdfcff53815626ecab7f6a1454f007\",\"link_m3u8\":\"https://vip.opstream12.com/20220323/4876_8d81132d/index.m3u8\"},{\"name\":\"04\",\"slug\":\"04\",\"filename\":\"My-Lecturer-My-Husband-tap-04\",\"link_embed\":\"https://vip.opstream12.com/share/b71155d90aef3bc38cb92db5a9afe4ce\",\"link_m3u8\":\"https://vip.opstream12.com/20220323/4877_d32bdb89/index.m3u8\"},{\"name\":\"05\",\"slug\":\"05\",\"filename\":\"My-Lecturer-My-Husband-tap-05\",\"link_embed\":\"https://vip.opstream12.com/share/aa108f56a10e75c1f20f27723ecac85f\",\"link_m3u8\":\"https://vip.opstream12.com/20220323/4878_63b11b47/index.m3u8\"},{\"name\":\"06\",\"slug\":\"06\",\"filename\":\"My-Lecturer-My-Husband-tap-06\",\"link_embed\":\"https://vip.opstream12.com/share/606c90a06173d69682feb83037a68fec\",\"link_m3u8\":\"https://vip.opstream12.com/20220323/4879_55590b5a/index.m3u8\"},{\"name\":\"07\",\"slug\":\"07\",\"filename\":\"My-Lecturer-My-Husband-tap-07\",\"link_embed\":\"https://vip.opstream12.com/share/2fe5a27cde066c0b65acb8f2c1717464\",\"link_m3u8\":\"https://vip.opstream12.com/20220323/4880_0b6774df/index.m3u8\"},{\"name\":\"08\",\"slug\":\"08\",\"filename\":\"My-Lecturer-My-Husband-tap-08\",\"link_embed\":\"https://vip.opstream12.com/share/c6ede20e6f597abf4b3f6bb30cee16c7\",\"link_m3u8\":\"https://vip.opstream12.com/20220323/4881_19068ca8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Một Đấu Một
+https://vip.opstream10.com/share/b3a153ec4be947cbee37d78cead6552b\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20040_528aa898/index.m3u8\"},{\"name\":\"2\",\"slug\":\"2\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-2\",\"link_embed\":\"https://vip.opstream10.com/share/c4bb5a353be47442aa65df4e7ec64cae\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20042_8d477ea1/index.m3u8\"},{\"name\":\"3\",\"slug\":\"3\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-3\",\"link_embed\":\"https://vip.opstream10.com/share/745c7d75786602f3105a69845316ff61\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20045_17dde747/index.m3u8\"},{\"name\":\"4\",\"slug\":\"4\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-4\",\"link_embed\":\"https://vip.opstream10.com/share/a52168f7d6bd25d2d4e7f6a927ce5977\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20047_8a376999/index.m3u8\"},{\"name\":\"5\",\"slug\":\"5\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-5\",\"link_embed\":\"https://vip.opstream10.com/share/e7a791ef7b3cccca6510dcc82ac48291\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20050_a5929cee/index.m3u8\"},{\"name\":\"6\",\"slug\":\"6\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-6\",\"link_embed\":\"https://vip.opstream10.com/share/3fd7c6aa5a7c30527f3d2a42f89ca530\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20052_78ede557/index.m3u8\"},{\"name\":\"7\",\"slug\":\"7\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-7\",\"link_embed\":\"https://vip.opstream10.com/share/4207dd934a10a875741e7c8936bc720f\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20053_e6031d23/index.m3u8\"},{\"name\":\"8\",\"slug\":\"8\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-8\",\"link_embed\":\"https://vip.opstream10.com/share/b1823297adf46a9cadba8244c11655ad\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20056_7d248ae5/index.m3u8\"},{\"name\":\"9\",\"slug\":\"9\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-9\",\"link_embed\":\"https://vip.opstream10.com/share/0a3c79e912ed10a932239ea1af3aa9d3\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20058_48c237e8/index.m3u8\"},{\"name\":\"10\",\"slug\":\"10\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-10\",\"link_embed\":\"https://vip.opstream10.com/share/6c23f690da75b90d954fe4d90e42a73d\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20061_2d5b74aa/index.m3u8\"},{\"name\":\"11\",\"slug\":\"11\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-11\",\"link_embed\":\"https://vip.opstream10.com/share/8321e047fb413f251abf34adf1e49a1b\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20062_9eb1396f/index.m3u8\"},{\"name\":\"12\",\"slug\":\"12\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-12\",\"link_embed\":\"https://vip.opstream10.com/share/039b9f5c48fb1bbea76b82b43d43ea74\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20065_20c2e868/index.m3u8\"},{\"name\":\"13\",\"slug\":\"13\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-13\",\"link_embed\":\"https://vip.opstream10.com/share/b398807ae3446a3fc2aface42e1c1aff\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20067_f07bc761/index.m3u8\"},{\"name\":\"14\",\"slug\":\"14\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-14\",\"link_embed\":\"https://vip.opstream10.com/share/5237ae9876978e9caf31d2c54ffdb106\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20069_fd6e6f1a/index.m3u8\"},{\"name\":\"15\",\"slug\":\"15\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-15\",\"link_embed\":\"https://vip.opstream10.com/share/ac539936ccf02065d63dbae632df5d4a\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20071_8837c845/index.m3u8\"},{\"name\":\"16\",\"slug\":\"16\",\"filename\":\"mot-dau-mot-thuyet-minh-man-to-man-thuyet-minh-tap-16\",\"link_embed\":\"https://vip.opstream10.com/share/402505605ae8401eb9598484ae1472ff\",\"link_m3u8\":\"https://vip.opstream10.com/20220611/20072_f9bf2743/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Giá Trị Tình Cảm (Affeksjonsverdi)
+https://s6.kkphimplayer6.com/20251217/OTnHoqtE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Vượt Ngục
+https://vip.opstream14.com/20220616/14677_84626ab8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Chồng Thuê
+https://vip.opstream-short.com/share/881c6efa917cff1c97a74e03e15f43e8\",\"link_m3u8\":\"https://vip.opstream-short.com/20251028/2852_881c6efa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Unseen
+https://vip.opstream15.com/share/6f2fda2e822df3f025822264e1d01e77\",\"link_m3u8\":\"https://vip.opstream15.com/20230329/36991_0b54aab6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ăn, Cầu, Sủa
+https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260402/vcwRtt6P/index.m3u8\",\"link_m3u8\":\"https://s6.kkphimplayer6.com/20260402/vcwRtt6P/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Trận Chiến Dưới Đại Dương
+https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231205/bZdElkVa/index.m3u8\",\"link_m3u8\":\"https://s1.phim1280.tv/20231205/bZdElkVa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tình yêu bí mật
+https://s2.phim1280.tv/20231215/JPcgvFjC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Gió Làng Kình
+https://vip.opstream13.com/20251122/18795_6b45cf46/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tình Yêu Không Thể Mất Đi
+https://s6.kkphimplayer6.com/20250822/9JrXjqKs/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Nữ Thư Ký Gợi Cảm Của Tôi
+https://vip.opstream10.com/20221024/25305_460e0915/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", NỬA ĐÊM
+https://s2.phim1280.tv/20231206/vaNGzrOK/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Xứng Danh Tài Nữ (Phần 2)
+https://vip.opstream17.com/share/1bd69c7df3112fb9a584fbd9edfc6c90\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/4000_c9cfa1c1/index.m3u8\"},{\"name\":\"2\",\"slug\":\"2\",\"filename\":\"Rosy.Business.S02E02.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/9cf742e94f29f454ac42ff68f37d5cc4\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3999_76af0786/index.m3u8\"},{\"name\":\"3\",\"slug\":\"3\",\"filename\":\"Rosy.Business.S02E03.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/abec16f483abb4f1810ca029aadf8446\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3997_15a8c9d2/index.m3u8\"},{\"name\":\"4\",\"slug\":\"4\",\"filename\":\"Rosy.Business.S02E04.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/43e04dd08bb1305428b0c9c8d8a2660a\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3996_d099dc65/index.m3u8\"},{\"name\":\"5\",\"slug\":\"5\",\"filename\":\"Rosy.Business.S02E05.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/d464b5ac99e74462f321c06ccacc4bff\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3995_df108ac8/index.m3u8\"},{\"name\":\"6\",\"slug\":\"6\",\"filename\":\"Rosy.Business.S02E06.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/adf8d7f8c53c8688e63a02bfb3055497\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3994_f9c5d978/index.m3u8\"},{\"name\":\"7\",\"slug\":\"7\",\"filename\":\"Rosy.Business.S02E07.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/c12d1f7cc7c4b41a125b5752d1238b03\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3993_0ca2b6ae/index.m3u8\"},{\"name\":\"8\",\"slug\":\"8\",\"filename\":\"Rosy.Business.S02E08.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/0de5d1a081a3095d62b416e44e055e7a\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3992_7d7b4157/index.m3u8\"},{\"name\":\"9\",\"slug\":\"9\",\"filename\":\"Rosy.Business.S02E09.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/dfbd282c18300fa0eccceea6c5fac41f\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3991_617c6262/index.m3u8\"},{\"name\":\"10\",\"slug\":\"10\",\"filename\":\"Rosy.Business.S02E10.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/7612936dcc85282c6fa4dd9d4ffe57f1\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3990_e93fe159/index.m3u8\"},{\"name\":\"11\",\"slug\":\"11\",\"filename\":\"Rosy.Business.S02E11.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/6516c28727509c3db6280ae16254e916\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3989_18b9b180/index.m3u8\"},{\"name\":\"12\",\"slug\":\"12\",\"filename\":\"Rosy.Business.S02E12.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/bbbe7ef28a0018c4484eaa8b2d0a0328\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3988_a2bf998b/index.m3u8\"},{\"name\":\"13\",\"slug\":\"13\",\"filename\":\"Rosy.Business.S02E13.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/4f9c76cf97f84048c5990dd4ef842ea2\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3987_1b82e02a/index.m3u8\"},{\"name\":\"14\",\"slug\":\"14\",\"filename\":\"Rosy.Business.S02E14.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/540393ae7f8b7a7fd6cdf47250b05679\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3986_8cf55eeb/index.m3u8\"},{\"name\":\"15\",\"slug\":\"15\",\"filename\":\"Rosy.Business.S02E15.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/0c2f66f43752d47fb49abeea0badf47a\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3985_b46d0360/index.m3u8\"},{\"name\":\"16\",\"slug\":\"16\",\"filename\":\"Rosy.Business.S02E16.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/7059b7dea43da04fd342088d7c1698f0\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3984_f2c41b6b/index.m3u8\"},{\"name\":\"17\",\"slug\":\"17\",\"filename\":\"Rosy.Business.S02E17.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/5e4450dc93010bbeea7cd28eba296850\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3983_8bddff28/index.m3u8\"},{\"name\":\"18\",\"slug\":\"18\",\"filename\":\"Rosy.Business.S02E18.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/a0443c8c8c3372d662e9173c18faaa2c\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3982_56d41416/index.m3u8\"},{\"name\":\"19\",\"slug\":\"19\",\"filename\":\"Rosy.Business.S02E19.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/9425be43ba92c2b4454ca7bf602efad8\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3980_47552c83/index.m3u8\"},{\"name\":\"20\",\"slug\":\"20\",\"filename\":\"Rosy.Business.S02E20.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/a58616464d14208b2677a084f5d7456f\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3979_1d8d916e/index.m3u8\"},{\"name\":\"21\",\"slug\":\"21\",\"filename\":\"Rosy.Business.S02E21.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/a8badd37c221a3f19d9ad0ac2196849a\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3978_4bd28d1c/index.m3u8\"},{\"name\":\"22\",\"slug\":\"22\",\"filename\":\"Rosy.Business.S02E22.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/7d571e5c15bad5ef8c4352ce7a1d9e78\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3977_1cf81cd1/index.m3u8\"},{\"name\":\"23\",\"slug\":\"23\",\"filename\":\"Rosy.Business.S02E23.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/2ba3c4b9390cc43edb94e42144729d33\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3976_6bfc08fc/index.m3u8\"},{\"name\":\"24\",\"slug\":\"24\",\"filename\":\"Rosy.Business.S02E24.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/4f5a9bf135f285358a4a74b08f8121f8\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3975_2d416ab3/index.m3u8\"},{\"name\":\"25\",\"slug\":\"25\",\"filename\":\"Rosy.Business.S02E25.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/9a32ff36c65e8ba30915a21b7bd76506\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3974_b053ea5b/index.m3u8\"},{\"name\":\"26\",\"slug\":\"26\",\"filename\":\"Rosy.Business.S02E26.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/678004486c119599ed7d199f47da043a\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3973_bd0ebe63/index.m3u8\"},{\"name\":\"27\",\"slug\":\"27\",\"filename\":\"Rosy.Business.S02E27.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/f2e84d98d6dc0c7acd56b40509355666\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3972_83a90331/index.m3u8\"},{\"name\":\"28\",\"slug\":\"28\",\"filename\":\"Rosy.Business.S02E28.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/cba0a4ee5ccd02fda0fe3f9a3e7b89fe\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3971_315699b9/index.m3u8\"},{\"name\":\"29\",\"slug\":\"29\",\"filename\":\"Rosy.Business.S02E29.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/11bcd3c1d43688891ed23f5677a174ea\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3970_9b4504fd/index.m3u8\"},{\"name\":\"30\",\"slug\":\"30\",\"filename\":\"Rosy.Business.S02E30.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/f81dee42585b3814de199b2e88757f5c\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3969_376f3505/index.m3u8\"},{\"name\":\"31\",\"slug\":\"31\",\"filename\":\"Rosy.Business.S02E31.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/0cbed40c0d920b94126eaf5e707be1f5\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3968_3980ca5d/index.m3u8\"},{\"name\":\"32\",\"slug\":\"32\",\"filename\":\"Rosy.Business.S02E32.1080p.KKTV.WEB-DL.AAC2.0.x264-Ao\",\"link_embed\":\"https://vip.opstream17.com/share/43d762ca733a839226415450b0dbf9d2\",\"link_m3u8\":\"https://vip.opstream17.com/20240406/3966_428b809f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sinh Tồn Giữa Đại Dương
+https://s2.phim1280.tv/20240127/rhNz58qJ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Ngày Sinh Tồn
+https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240110/YtFRh9GH/index.m3u8\",\"link_m3u8\":\"https://s2.phim1280.tv/20240110/YtFRh9GH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Siêu Nhiên (Phần 8)
+https://s4.phim1280.tv/20241124/SerFMomt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Truyền Thuyết Về Quái Vật Fox
+https://s2.phim1280.tv/20240130/owngfdy9/index.m3u8
