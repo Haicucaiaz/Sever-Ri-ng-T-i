@@ -723,3 +723,5 @@ https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/spor-smart1.png" group-title="THỂ THAO QUỐC TẾ",SporSmart
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://phimapi.com/image.php?url=https%3A%2F%2Fphimimg.com%2Fupload%2Fvod%2F20260115-1%2F39c50219936f03a50156032173a3acf7.jpg" group-title="Phim Việt", Đàn Cá Gỗ
+https://s6.kkphimplayer6.com/20260115/f7NGDfJX/index.m3u8
