@@ -9,7 +9,7 @@ jobs:
   sort:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Quan trọng: cho phép push code
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,6 +25,16 @@ jobs:
           python3 << 'EOF'
           import re
           
+          def clean_url(url):
+              # Xử lý trường hợp URL bị lồng trong JSON hoặc có dấu ngoặc kép
+              if url.startswith('"') and url.endswith('"'):
+                  url = url[1:-1]
+              # Trích xuất link m3u8 từ chuỗi JSON nếu có
+              match = re.search(r'(https?://[^\s"\'<>]+\.m3u8)', url)
+              if match:
+                  return match.group(1)
+              return url
+          
           with open('raw.m3u8', 'r', encoding='utf-8') as f:
               lines = f.readlines()
           
@@ -33,19 +43,33 @@ jobs:
           while i < len(lines):
               line = lines[i].strip()
               if line.startswith('#EXTINF:'):
+                  # Lấy toàn bộ dòng EXTINF để giữ lại tvg-logo và group-title
+                  extinf_line = line
+                  # Tìm tiêu đề (phần sau dấu phẩy cuối cùng)
                   last_comma = line.rfind(',')
                   title = line[last_comma+1:].strip()
-                  url = lines[i+1].strip() if i+1 < len(lines) else ''
-                  items.append((title, url))
+                  # Lấy URL ở dòng tiếp theo
+                  url_line = lines[i+1].strip() if i+1 < len(lines) else ''
+                  # Làm sạch URL
+                  url = clean_url(url_line)
+                  if url and url.startswith('http'):
+                      items.append((title, url, extinf_line))
                   i += 2
               else:
                   i += 1
           
+          # Sắp xếp theo tiêu đề
           items.sort(key=lambda x: x[0].lower())
           
+          # Tạo output, giữ nguyên định dạng #EXTINF gốc (có tvg-logo, group-title)
           output = '#EXTM3U\n'
-          for title, url in items:
-              output += f'#EXTINF:-1 tvg-logo="" group-title="", {title}\n{url}\n'
+          for title, url, extinf_line in items:
+              # Nếu dòng EXTINF gốc không có tvg-logo và group-title thì thêm vào
+              if 'tvg-logo=' not in extinf_line:
+                  extinf_line = '#EXTINF:-1 tvg-logo="" group-title=""'
+                  # Gắn lại tiêu đề
+                  extinf_line += f', {title}'
+              output += f'{extinf_line}\n{url}\n'
           
           with open('sorted_playlist.m3u8', 'w', encoding='utf-8') as f:
               f.write(output)
